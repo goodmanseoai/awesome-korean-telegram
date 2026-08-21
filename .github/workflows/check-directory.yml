@@ -1,0 +1,36 @@
+name: 디렉터리 검사
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+  schedule:
+    - cron: "17 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 데이터와 README 동기화 확인
+        run: |
+          python scripts/check_links.py --data-only
+          python scripts/render_readme.py --check
+
+      - name: 텔레그램 링크 확인
+        run: python scripts/check_links.py --delay 0.5 --retries 2
+

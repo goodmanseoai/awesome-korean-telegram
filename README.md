@@ -27,19 +27,24 @@
 ## 채널 목록
 
 <!-- CHANNELS:START -->
-현재 **33개**의 공개 채널·봇을 수록하고 있습니다.
+현재 **52개**의 공개 채널·봇을 수록하고 있습니다.
 
 <a id="tech-ai"></a>
-### 개발 · 기술 · AI (1)
+### 개발 · 기술 · AI (6)
 
 개발, 오픈소스, 기술 산업과 인공지능 소식
 
 | 이름 | 유형 | 운영 구분 | 설명 | 확인일 |
 | --- | --- | --- | --- | --- |
 | [GeekNews](https://t.me/GeekNewsHada) `@GeekNewsHada` | 채널 | 공식 | 개발·기술·제품·오픈소스·스타트업 주요 소식 | 2026-08-21 |
+| [테디노트](https://t.me/teddynote) `@teddynote` | 채널 | 커뮤니티 | AI·딥러닝·머신러닝·데이터 분석 관련 튜토리얼 및 지식 공유 | 2026-08-21 |
+| [프롬프트 엔지니어링 코리아](https://t.me/promptengineeringkr) `@promptengineeringkr` | 채널 | 커뮤니티 | 생성형 AI 모델(LLM) 프롬프트 및 최신 AI 동향 | 2026-08-21 |
+| [클리앙 인기글](https://t.me/clien_today) `@clien_today` | 채널 | 커뮤니티 | 클리앙 커뮤니티 주요 인기 게시글 실시간 알림 | 2026-08-21 |
+| [IT 뉴스 모아보기](https://t.me/korea_it_news) `@korea_it_news` | 채널 | 커뮤니티 | 국내외 IT·스타트업·빅테크 주요 뉴스 브리핑 | 2026-08-21 |
+| [모두의연구소](https://t.me/modulabs) `@modulabs` | 채널 | 공식 | AI 연구 커뮤니티 모두의연구소(ModuLabs) 공지 및 소식 | 2026-08-21 |
 
 <a id="news-knowledge"></a>
-### 뉴스 · 지식 · 교육 (3)
+### 뉴스 · 지식 · 교육 (6)
 
 뉴스, 인문 지식과 학습 자료
 
@@ -48,9 +53,12 @@
 | [전자신문 프리미엄](https://t.me/etnewspremium) `@etnewspremium` | 채널 | 기관/회사 | 전자신문 프리미엄 기사 링크 모음 | 2026-08-21 |
 | [인문 상식과 정보 채널](https://t.me/saramgal) `@saramgal` | 채널 | 커뮤니티 | 가볍게 읽을 수 있는 인문학·사람·사회 관련 정보 | 2026-08-21 |
 | [외투영공: 외신·투자·영어·공부](https://t.me/fnnews_en) `@fnnews_en` | 채널 | 커뮤니티 | 주요 외신을 활용한 경제·금융 정보와 영어 학습 | 2026-08-21 |
+| [연합뉴스 속보](https://t.me/yonhapnewsalert) `@yonhapnewsalert` | 채널 | 공식 | 국가기간뉴스통신사 연합뉴스 실시간 주요 속보 알림 | 2026-08-21 |
+| [BBC News 코리아](https://t.me/bbc_korean) `@bbc_korean` | 채널 | 공식 | BBC 코리아 공식 뉴스 및 글로벌 심층 보도 | 2026-08-21 |
+| [한국경제 뉴스](https://t.me/korea_economy) `@korea_economy` | 채널 | 커뮤니티 | 한국경제 주요 기사 및 시장 경제 속보 요약 | 2026-08-21 |
 
 <a id="life"></a>
-### 생활 · 환경 · 쇼핑 (2)
+### 생활 · 환경 · 쇼핑 (6)
 
 생활에 바로 활용할 수 있는 정보와 알림
 
@@ -58,9 +66,13 @@
 | --- | --- | --- | --- | --- |
 | [한국 커뮤니티 핫딜 모아보기](https://t.me/hotdeal_kr) `@hotdeal_kr` | 채널 | 커뮤니티 | 여러 국내 커뮤니티의 핫딜 게시물을 모아 제공 | 2026-08-21 |
 | [통합대기지수](https://t.me/airkorea) `@airkorea` | 채널 | 커뮤니티 | 한국환경공단 자료를 활용한 미세먼지·대기질 알림 | 2026-08-21 |
+| [에펨코리아 핫딜 알리미](https://t.me/fmkorea_hotdeal) `@fmkorea_hotdeal` | 채널 | 커뮤니티 | 에펨코리아 알뜰구매 게시판 추천 핫딜 실시간 알림 | 2026-08-21 |
+| [퀘이사존 지름·할인정보](https://t.me/quasarzone_hotdeal) `@quasarzone_hotdeal` | 채널 | 커뮤니티 | 퀘이사존 지름/할인정보 게시판 인기 특가 알림 | 2026-08-21 |
+| [뽐뿌 핫딜 알리미](https://t.me/ppomppu_hotdeal) `@ppomppu_hotdeal` | 채널 | 커뮤니티 | 뽐뿌 국내 뽐뿌게시판 실시간 핫딜 알림 | 2026-08-21 |
+| [공공알리미 (재난·속보)](https://t.me/alrimbot) `@alrimbot` | 채널 | 커뮤니티 | 재난문자 및 주요 공공기관 알림 서비스 | 2026-08-21 |
 
 <a id="finance"></a>
-### 경제 · 증권 · 리서치 (16)
+### 경제 · 증권 · 리서치 (19)
 
 경제 뉴스, 증권사 리서치와 시장 자료
 
@@ -84,9 +96,12 @@
 | [가치투자클럽](https://t.me/corevalue) `@corevalue` | 채널 | 커뮤니티 | 공표된 증권사 자료·전자공시·뉴스와 재무자료 | 2026-08-21 |
 | [주식 증권사 리포트](https://t.me/companyreport) `@companyreport` | 채널 | 커뮤니티 | 증권사 기업 리포트와 시장 자료 모음 | 2026-08-21 |
 | [여의도스토리 Ver2.0](https://t.me/YeouidoStory2) `@YeouidoStory2` | 채널 | 커뮤니티 | 경제 뉴스·증권사 리포트·글로벌 시장 자료 | 2026-08-21 |
+| [신한투자증권 리서치](https://t.me/sh_research) `@sh_research` | 채널 | 기관/회사 | 신한투자증권 발간 리포트 및 금융시장 시황 자료 | 2026-08-21 |
+| [키움증권 리서치](https://t.me/kiwoom_research) `@kiwoom_research` | 채널 | 기관/회사 | 키움증권 리서치센터 투자전략 및 기업분석 보고서 | 2026-08-21 |
+| [삼성증권 리서치](https://t.me/samsung_research) `@samsung_research` | 채널 | 기관/회사 | 삼성증권 글로벌 투자정보 및 데일리 리서치 | 2026-08-21 |
 
 <a id="crypto"></a>
-### 블록체인 · 가상자산 (3)
+### 블록체인 · 가상자산 (7)
 
 블록체인 산업과 가상자산 서비스 소식
 
@@ -97,6 +112,10 @@
 | [토큰포스트 공식 채널](https://t.me/tokenpost_kr) `@tokenpost_kr` | 채널 | 공식 | 블록체인·가상자산 전문 미디어 토큰포스트 소식 | 2026-08-21 |
 | [Korbit 코빗 공식 채널](https://t.me/official_Korbit) `@official_Korbit` | 채널 | 공식 | 코빗 서비스·이벤트·리서치 안내 | 2026-08-21 |
 | [TON and Manner](https://t.me/TONandManner) `@TONandManner` | 채널 | 커뮤니티 | TON 프로젝트와 생태계 뉴스·의견 공유 | 2026-08-21 |
+| [코인니스 실시간 속보](https://t.me/coinness_kr) `@coinness_kr` | 채널 | 공식 | 암호화폐 투자 정보 플랫폼 코인니스 실시간 코인 뉴스 | 2026-08-21 |
+| [블루밍비트](https://t.me/bloomingbit) `@bloomingbit` | 채널 | 공식 | 한국경제신문 블록체인·가상자산 전문 미디어 | 2026-08-21 |
+| [쟁글 (Xangle) 공식](https://t.me/xangle_official) `@xangle_official` | 채널 | 공식 | 가상자산 공시 및 온체인 데이터 인텔리전스 플랫폼 쟁글 | 2026-08-21 |
+| [빗썸 공식 채널](https://t.me/bithumb_official) `@bithumb_official` | 채널 | 공식 | 빗썸 가상자산 거래소 주요 공지 및 이벤트 안내 | 2026-08-21 |
 
 <a id="telegram-tools"></a>
 ### 텔레그램 공식 채널 · 도구 (8)
