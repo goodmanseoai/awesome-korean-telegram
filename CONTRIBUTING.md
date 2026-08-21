@@ -58,4 +58,3 @@ python scripts/check_links.py
 - 긴급 삭제가 필요한 이유
 
 개인정보, 지갑 시드 문구, API 키, 계정 인증정보는 이슈에 올리지 마세요.
-

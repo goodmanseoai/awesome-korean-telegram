@@ -44,4 +44,3 @@ body:
       options:
         - label: 개인정보, 비밀번호, API 키, 지갑 시드 문구를 포함하지 않았습니다.
           required: true
-

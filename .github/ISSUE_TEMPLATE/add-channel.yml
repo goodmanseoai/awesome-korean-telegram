@@ -71,4 +71,3 @@ body:
           required: true
         - label: 이 요청에 개인정보나 인증정보를 포함하지 않았습니다.
           required: true
-
