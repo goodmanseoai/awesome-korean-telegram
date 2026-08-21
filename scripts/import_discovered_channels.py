@@ -50,6 +50,7 @@ def main() -> int:
     data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     candidates = json.loads(args.input.read_text(encoding="utf-8"))
     categories = {category["slug"]: category for category in data["categories"]}
+    needed_categories = {candidate["category"] for candidate in candidates}
     existing = {
         entry["handle"].casefold()
         for category in data["categories"]
@@ -57,7 +58,7 @@ def main() -> int:
     }
 
     for slug, metadata in CATEGORY_METADATA.items():
-        if slug not in categories:
+        if slug in needed_categories and slug not in categories:
             category = {
                 "slug": slug,
                 "name": metadata["name"],
@@ -97,6 +98,11 @@ def main() -> int:
 
     for category in data["categories"]:
         category["entries"].sort(key=lambda item: item["name"].casefold())
+    data["categories"] = [
+        category
+        for category in data["categories"]
+        if category["entries"] or category["slug"] not in CATEGORY_METADATA
+    ]
 
     print(f"Import preview: add={added}, skip_existing={skipped}")
     if not args.apply:

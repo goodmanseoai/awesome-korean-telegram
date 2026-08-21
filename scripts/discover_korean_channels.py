@@ -76,8 +76,6 @@ HARD_BLOCK_TERMS = {
     "사기피해 공유",
     "법무부 감독관리국",
     "수익으로 증명",
-    "바이낸스선물",
-    "선물심볼",
 }
 
 PIRACY_TERMS = {
@@ -94,7 +92,6 @@ PIRACY_TERMS = {
     "수능 링크",
     "공공재",
     "자료 분류채널",
-    "링크모음",
     "블랙툰",
     "blacktoon",
     "newtoki",
@@ -108,22 +105,6 @@ HIGH_RISK_PROMO_TERMS = {
     "코인 시그널",
     "선물 리딩",
     "무료 리딩",
-    "에어드랍",
-    "airdrop",
-    "airdr0p",
-    "bounty",
-    "레퍼럴",
-}
-
-LEGITIMACY_TERMS = {
-    "공식",
-    "뉴스",
-    "리서치",
-    "연구",
-    "언론",
-    "미디어",
-    "증권",
-    "보고서",
 }
 
 PERSONAL_TERMS = {
@@ -156,6 +137,14 @@ CATEGORY_RULES = [
     ("life", {"핫딜", "할인", "쇼핑", "날씨", "미세먼지", "생활", "육아", "요리", "반려", "패션", "뷰티"}),
     ("news-knowledge", {"뉴스", "언론", "속보", "브리핑", "지식", "인문", "과학", "교육", "공부", "영어", "책", "수능", "시험"}),
 ]
+
+CATEGORY_OVERRIDES = {
+    "mujammin123": "crypto",
+}
+
+STATUS_OVERRIDES = {
+    "mujammin123": "개인",
+}
 
 
 def fetch_text(url: str, timeout: float = 20.0, retries: int = 2) -> str:
@@ -391,11 +380,6 @@ def rejection_reason(
         return "piracy-risk"
     if contains_any(combined, HIGH_RISK_PROMO_TERMS):
         return "high-risk-promotion"
-    crypto_terms = dict(CATEGORY_RULES)["crypto"]
-    if contains_any(combined, crypto_terms) and not contains_any(
-        combined, LEGITIMACY_TERMS
-    ):
-        return "unverified-crypto"
     return None
 
 
@@ -425,10 +409,10 @@ def validate_handle(handle: str) -> dict:
         "handle": handle,
         "url": f"https://t.me/{handle}",
         "type": "채널",
-        "status": classify_status(combined),
+        "status": STATUS_OVERRIDES.get(handle.casefold(), classify_status(combined)),
         "description": clean_description(description) or "한국어 공개 텔레그램 채널",
         "checked_at": datetime.now(timezone.utc).astimezone().date().isoformat(),
-        "category": classify_category(combined),
+        "category": CATEGORY_OVERRIDES.get(handle.casefold(), classify_category(combined)),
         "subscribers": subscribers,
         "source": "tgregister-language-kor",
         "last_post_at": last_dates[-1] if last_dates else None,

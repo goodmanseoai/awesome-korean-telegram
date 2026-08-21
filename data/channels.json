@@ -26,12 +26,48 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "나박AI 넥라인 확인 방",
+          "handle": "coinaiai_talk",
+          "url": "https://t.me/coinaiai_talk",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "nabak 바이비트선물심볼 5m, 15m, 1h, 4h, 1d, 1w nabak binance:바이낸스선물심볼 5m, 15m, 1h, 4h, 1d, 1w *입력한 심볼은 카운팅 됩니다 (입력하신 순간 동의로 간주) 뭐 .. 수정했으면 좋겠다 추가하면…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "바이브코딩 입문자를 위한 안내방",
+          "handle": "web3subinchat",
+          "url": "https://t.me/web3subinchat",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "모르는 건 자유롭게 질문할 수 있는 방을 지향하고 있습니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "보안 가이드",
+          "handle": "sec_guide",
+          "url": "https://t.me/sec_guide",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "보안 가이드 @sec_guide 뉴비 가이드 @nb_guide 인포섹 https://t.me/+beuCvgOEWEdmMDIx 정치소통방 @minjutoron",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "안테나(안석현의 테크 나들이)",
           "handle": "ahnttena",
           "url": "https://t.me/ahnttena",
           "type": "채널",
           "status": "커뮤니티",
           "description": "KIPOST 안석현 팀장입니다. 반도체, 디스플레이, 2차전지 관련 기사 피드와 깊이 있는 분석을 제공합니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "크립토DEV🐳🥷",
+          "handle": "dewey_dev",
+          "url": "https://t.me/dewey_dev",
+          "type": "채널",
+          "status": "개인",
+          "description": "크립토&금융 이야기 좋아합니다 AI SW 개발자가 말아주는 기술이야기 📢 Chat : https://t.me/dewey_chat 📢 🎈X : https://x.com/Dewey7171🎈",
           "checked_at": "2026-08-21"
         }
       ]
@@ -41,6 +77,15 @@
       "name": "뉴스 · 지식 · 교육",
       "description": "뉴스, 인문 지식과 학습 자료",
       "entries": [
+        {
+          "name": "HTS보다 빠른 뉴스채널",
+          "handle": "morefaternews",
+          "url": "https://t.me/morefaternews",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "HTS보다 빠른 뉴스채널",
+          "checked_at": "2026-08-21"
+        },
         {
           "name": "리포트 공감능력📂",
           "handle": "attuner",
@@ -96,6 +141,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "유빈 아카이브 Chat",
+          "handle": "yubin_chat",
+          "url": "https://t.me/yubin_chat",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "수능 관련 이야기를 하는 채팅방입니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "인문 상식과 정보 채널",
           "handle": "saramgal",
           "url": "https://t.me/saramgal",
@@ -111,6 +165,15 @@
           "type": "채널",
           "status": "기관/회사",
           "description": "전자신문 프리미엄 기사 링크 모음",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "정의당 뉴스채널",
+          "handle": "justicekr",
+          "url": "https://t.me/justicekr",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "정의당의 모든 소식을 전합니다💛",
           "checked_at": "2026-08-21"
         },
         {
@@ -147,6 +210,33 @@
           "type": "채널",
           "status": "기관/회사",
           "description": "캄보디아 현지 소식을 한국어로 전하는 뉴스 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "플스포 매운맛",
+          "handle": "vvvvzzzzvvvv",
+          "url": "https://t.me/vvvvzzzzvvvv",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "본 텔방은 교육 목적입니다. 투자에 대한 정보 제공 및 참고를 위한 내용이며 투자 권유를 위한 내용이 아닙니다. 모든 투자에 대한 책임은 투자자 본인에게 있습니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "하양이아빠의 암호화폐이야기",
+          "handle": "xvgwhitedog2",
+          "url": "https://t.me/xvgwhitedog2",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "하양이아빠가 전하는 암호화폐 공부자료와 뉴스정리 입니다. 제가 직접 작성중인 암호화폐 용어정리, 뉴스들을 업데이트 하고 있습니다. 채널문의는 @xvgwhitedog 로 부탁드립니다. 카카오톡채팅방 : https://open.kakao.com/o/gN…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "📰 실시간 속보 단독 뉴스",
+          "handle": "news_kor",
+          "url": "https://t.me/news_kor",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "@coingram_adm",
           "checked_at": "2026-08-21"
         }
       ]
@@ -260,6 +350,15 @@
       "description": "경제 뉴스, 증권사 리서치와 시장 자료",
       "notice": "이 항목들은 정보 제공용이며 수익을 보장하지 않습니다. 투자 판단과 책임은 이용자에게 있습니다.",
       "entries": [
+        {
+          "name": "[DAOL퀀트 김경훈] 탑다운 전략",
+          "handle": "toptownquant",
+          "url": "https://t.me/toptownquant",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "Quant 김경훈 CAIA, FRM, CFA aimhigh2027@daolfn.com",
+          "checked_at": "2026-08-21"
+        },
         {
           "name": "[미래에셋 배터리/디스플레이 김철중] 디배저",
           "handle": "cjdbj",
@@ -459,6 +558,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "IT의 신 이형수",
+          "handle": "hslpartners",
+          "url": "https://t.me/hslpartners",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "아신 여러분들을 위한 사랑방입니다. 이 채널에서 제공하는 콘텐츠에는 오류가 있을수 있습니다. 매수/매도 추천이 절대 아니며 매매의 근거로 활용될 수 없습니다. 해당 게시물의 내용은 어떤 경우에도 법적 근거로 사용될 수 없습니다. 언급된 모든 기업은…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "KB증권 건설 장문준",
           "handle": "KB_EPC_MJ",
           "url": "https://t.me/KB_EPC_MJ",
@@ -477,12 +585,30 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "ordinary subinium",
+          "handle": "web3subin",
+          "url": "https://t.me/web3subin",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "진짜가 되고 싶은. 채팅방: https://t.me/web3subinchat * 모든 의견은 개인 의견이며, 제가 속한 회사, 조직 등을 대변하지 않습니다. 모든 내용은 특정 자산에 대한 경제적 조언이 아니며, 이에 대해 책임지지 않습니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "SK증권 Research",
           "handle": "sksresearch",
           "url": "https://t.me/sksresearch",
           "type": "채널",
           "status": "커뮤니티",
           "description": "SK증권 지식서비스 부문 Telegram 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "SK증권 스몰캡 리서치",
+          "handle": "sk_smallcap",
+          "url": "https://t.me/sk_smallcap",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "SK증권 중소형주 리서치",
           "checked_at": "2026-08-21"
         },
         {
@@ -510,6 +636,24 @@
           "type": "채널",
           "status": "개인",
           "description": "前 헤지펀드 매니저와 前 애널리스트의 여의도 톺아보기. 기관투자자의 깊이있는 인사이트로 수많은 투자 정보 속에서 해자를 선별합니다. 해당 채널의 게시물은 단순 의견 및 기록용도이고 매수-매도 등 투자권유를 의미하지 않습니다. 해당 게시물의 내용은 부…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "YIELD & SPREAD",
+          "handle": "yieldnspread",
+          "url": "https://t.me/yieldnspread",
+          "type": "채널",
+          "status": "개인",
+          "description": "채권 애널리스트 김성수 & 크레딧 애널리스트 한시화",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "YM리서치",
+          "handle": "ym_research",
+          "url": "https://t.me/ym_research",
+          "type": "채널",
+          "status": "개인",
+          "description": "안녕하세요, YM리서치입니다. 돈되는 고민만을 담아내겠습니다. ‼️Disclaimer‼️ 본 채널은 투자 판단에 참고가 될만한 정보의 제공만을 목적으로 매수/매도에 대한 추천이 아니며, 채널의 콘텐츠는 작성자의 주관적인 견해를 바탕으로 그 정확성이나…",
           "checked_at": "2026-08-21"
         },
         {
@@ -576,6 +720,24 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "곤조투자가 개인 아카이브:일기장",
+          "handle": "twozaga",
+          "url": "https://t.me/twozaga",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "지극히 개인적인 개인투자 자료 아카이브 채널입니다. 고정된 메세지를 읽어주시면 감사하겠습니다. 투자 구호 시작! 매수는 지조있게! 매도는 기조있게! 투자는 곤조있게! 그냥 뇌피셜만 하는 사람입니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "그냥 김라브😸",
+          "handle": "kim_rob",
+          "url": "https://t.me/kim_rob",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "김라브가 공부하는 내용도 올리고 헛소리도 하는 채널입니다. 본 채널의 게시물은 단순 의견 및 기록용도이고 매수-매도 등 투자권유를 의미하지 않습니다. 해당 게시물의 내용은 부정확할 수 있으며 매매에 따른 손실은 거래 당사자의 책임입니다. 해당 게시물…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "그로쓰리서치",
           "handle": "growthresearch",
           "url": "https://t.me/growthresearch",
@@ -618,6 +780,24 @@
           "type": "채널",
           "status": "기관/회사",
           "description": "대신증권 리서치센터 발간 보고서",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "도PB의 생존투자",
+          "handle": "survival_DoPB",
+          "url": "https://t.me/survival_DoPB",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "치열한 주식시장에서 함께 생존하기 위한 공간입니다. #Disclaimer • 업로드 되는 모든 종목은 작성자 및 작성자와 연관된 사람들이 보유하고 있을 가능성이 있습니다. • 또한 해당 종목 및 상품을 보유 또는 매도했을 가능성이 있으며 보유하고 있…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "독립리서치 밸류파인더",
+          "handle": "valuefinder",
+          "url": "https://t.me/valuefinder",
+          "type": "채널",
+          "status": "공식",
+          "description": "독립리서치 밸류파인더 공식채널입니다.",
           "checked_at": "2026-08-21"
         },
         {
@@ -666,6 +846,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "매실남과 당신은 반드시 승리할것",
+          "handle": "waitstudy",
+          "url": "https://t.me/waitstudy",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "돈벌러왔으면 돈을 벌자 투자자 매실남입니다. #AD = Paid promotion / #KOL = Requested KOL post 📌 면책조항 - 본 채널의 모든 내용은 정보 공유 목적이며, 투자 권유나 자문이 아닙니다. - 투자 판단과 그에 따른…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "메리츠 투자전략 황수욱",
           "handle": "soowook_hwang",
           "url": "https://t.me/soowook_hwang",
@@ -690,6 +879,15 @@
           "type": "채널",
           "status": "기관/회사",
           "description": "국내외 전략·경제·채권·계량·시황 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "미국주식과 투자이야기",
+          "handle": "itechkorea",
+          "url": "https://t.me/itechkorea",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "트위터 -> https://twitter.com/itechkoreallc 스레드 -> https://www.threads.net/@itechkorea 미주투 카톡 단톡방 -> https://open.kakao.com/o/g3e8yxBc 비번: usi…",
           "checked_at": "2026-08-21"
         },
         {
@@ -792,6 +990,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "신영증권 박소연",
+          "handle": "sypark_strategy",
+          "url": "https://t.me/sypark_strategy",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "Chart of the day, market comment, and views",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "알테오젠 IR",
           "handle": "alteogenIR",
           "url": "https://t.me/alteogenIR",
@@ -837,6 +1044,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "여의도 감성투자",
+          "handle": "ygamsung",
+          "url": "https://t.me/ygamsung",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "대한민국 기업들을 응원합니다. 단순 정보를 제공할 뿐 매수 매도 의견을 제시하는 것이 아닙니다. 최종 투자판단은 각 개인에게 있습니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "여의도스토리 Ver2.0",
           "handle": "YeouidoStory2",
           "url": "https://t.me/YeouidoStory2",
@@ -861,6 +1077,15 @@
           "type": "채널",
           "status": "커뮤니티",
           "description": "네프콘 : https://naver.me/xg7czSNA 유튜브 : https://youtube.com/@Allbareun X : https://x.com/allbareunkr 해당 채널의 게시물은 단순 의견 및 기록용도이고 매수/매도 등 투자권유를…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "원앵커의 월가 비밀노트 ➖미국증시",
+          "handle": "wonlyu9496",
+          "url": "https://t.me/wonlyu9496",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "You can view and join @wonlyu9496 right away.",
           "checked_at": "2026-08-21"
         },
         {
@@ -954,6 +1179,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "지엘리서치_ 독립리서치",
+          "handle": "valjuman",
+          "url": "https://t.me/valjuman",
+          "type": "채널",
+          "status": "개인",
+          "description": "데일리 콘텐츠 및 기업 리포트/탐방 노트를 제공하는 독립리서치입니다. 유튜브 주소 : youtube.com/@gorillatv2022 홈페이지 주소 : http://glstory.co.kr/?page_id=66 협업 문의 : research@glst…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "카이에 de market",
           "handle": "cahier_de_market",
           "url": "https://t.me/cahier_de_market",
@@ -1017,6 +1251,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "트리플 아이 - Insight Information Indepth",
+          "handle": "triple_stock",
+          "url": "https://t.me/triple_stock",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "고퀄리티 주식정보방 - Insight Information Indepth 본 채널에서 언급하는 종목들은 매수/매도를 의미하는 것이 아닙니다. 본 채널에서 언급된 종목은 보유 중이거나 아닐 수도 있습니다. 또한 언제든지 사전 예고없이 매수/매도할 수…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "하나 미래산업팀(스몰캡)",
           "handle": "hanasmallcap",
           "url": "https://t.me/hanasmallcap",
@@ -1059,6 +1302,24 @@
           "type": "채널",
           "status": "공식",
           "description": "기업분석보고서, IPO IR 행사와 IRTV 콘텐츠 안내",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한국경제TV 전태룡 투자정보 주식창",
+          "handle": "sw_stocknavi",
+          "url": "https://t.me/sw_stocknavi",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "한국경제TV 전태룡의 주식 시황 & ETF 투자 정보 채널 매일 무료 시황분석과 투자 정보 제공 #주식 #투자정보 #무료 #시황 #재테크 #ETF #한국경제TV #전태룡 #미국주식 #레버리지 #한국경제",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한국경제TV 프리미엄 주식정보",
+          "handle": "wowtv_official",
+          "url": "https://t.me/wowtv_official",
+          "type": "채널",
+          "status": "공식",
+          "description": "🚀한국경제TV 공식 운영 텔레그램 채널입니다. 실시간 프리미엄 주식정보를 무료로 확인하세요! 한국경제TV와 파트너는 금융투자업자가 아닌 유사투자자문업자로 개별적인 투자 상담과 자금 운영이 불가합니다. 본 채널에서 제공되는 콘텐츠는 투자판단에 대한 참…",
           "checked_at": "2026-08-21"
         },
         {
@@ -1123,6 +1384,15 @@
           "status": "커뮤니티",
           "description": "모든 투자의 책임은 본인. 본 채널의 자료는 매수매도를 권하지 않으며 단순 자료임을 재차 강조함",
           "checked_at": "2026-08-21"
+        },
+        {
+          "name": "🗽엄브렐라(Umbrella Research) 리서치+ 네프콘 옆집부자형 since 2020",
+          "handle": "umbrellaresearch",
+          "url": "https://t.me/umbrellaresearch",
+          "type": "채널",
+          "status": "개인",
+          "description": "엄브렐라 리서치 플랫폼은 CP(Contents Provider)와 함께 양질의 컨텐츠를 VVIP에게 제공하는 프리미엄 서비스입니다. 전직 애널리스트와 펀드매니저가 드리는 색다른 주식투자전략을 체험해보세요. 종목 매수매도 보다는 포트폴리오전략과 색다른…",
+          "checked_at": "2026-08-21"
         }
       ]
     },
@@ -1139,6 +1409,42 @@
           "type": "채널",
           "status": "공식",
           "description": "빗썸 텔레그램 실시간 가격 급등락 알림",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Bithumb 빗썸 공식 채널",
+          "handle": "BithumbExchange",
+          "url": "https://t.me/BithumbExchange",
+          "type": "채널",
+          "status": "공식",
+          "description": "No.1 가상자산 플랫폼 빗썸의 공식 텔레그램 채널입니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "COINNESS News Feed (코인니스)",
+          "handle": "coinnesskr",
+          "url": "https://t.me/coinnesskr",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "You can view and join @coinnesskr right away.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Crypto 팬더 공지방🦅",
+          "handle": "cryptopandann",
+          "url": "https://t.me/cryptopandann",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "안녕하세요 외노자 팬더입니다 대화방: @cryptopandachat Contact: @icoblog",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Crypto 팬더 대화방",
+          "handle": "cryptopandachat",
+          "url": "https://t.me/cryptopandachat",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "안녕하세요 외노자 팬더입니다 공지방: @cryptopandann Contact: @icoblog",
           "checked_at": "2026-08-21"
         },
         {
@@ -1169,12 +1475,57 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "다비드의 코인수첩 시즌2 🚀",
+          "handle": "davidissogood",
+          "url": "https://t.me/davidissogood",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "Trader DAVID AKA \"다비드“ 차트대디 $BTC",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "돌곰배와 매직 코인일기 🦅",
+          "handle": "dolgommagic",
+          "url": "https://t.me/dolgommagic",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "코린이를 위한 코인, NFT, 디파이, 화이트리스트, 에어드랍 등 정보 확 공유 공지방 : https://t.me/dolgommagic 채팅방 : https://t.me/dolgomagic 트위터 : https://x.com/ipalau1 유튜브 :…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "디센터 Decenter 공식 채널",
           "handle": "Decenter_KR",
           "url": "https://t.me/Decenter_KR",
           "type": "채널",
           "status": "공식",
           "description": "탈중앙화 시대를 여는 뉴스허브, 디센터 English: t.me/DecenterGlobal 홈페이지: decenter.kr 뉴스레터: http://bit.ly/De_letter",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "변창호 코인사관학교 BCH 🦅",
+          "handle": "BChoSN",
+          "url": "https://t.me/BChoSN",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "채팅방 @engzip Contact @bchocoin #AD = 비용 지원 받은 포스팅 / #KOL = 요청 받은 포스팅",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "부식의 Web3 공방",
+          "handle": "boosik_web3",
+          "url": "https://t.me/boosik_web3",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "아 웹3 프로젝트 만들어보고 싶다~~ DM : @i_am_boosik",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "불개미 CRYPTO",
+          "handle": "fireant_crypto",
+          "url": "https://t.me/fireant_crypto",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "대한민국 최대 Crypto 커뮤니티 불개미 Crypto 불개미 Crypto : @fireant_crypto 불개미 X account : (트위터) fireant_korea (no TG ID) 불개미 링크트리 : https://linktr.ee/fir…",
           "checked_at": "2026-08-21"
         },
         {
@@ -1187,6 +1538,60 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "신기돈 메인넷(이더리움수혜자모임)",
+          "handle": "helpmetebi",
+          "url": "https://t.me/helpmetebi",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "블로그:https://blog.naver.com/jinriwarman 공지방:https://t.me/tlsrltnf 채팅방:https://t.me/helpmetebi",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "엄마가 걱정안해도 될때까지 하는 코인 채널",
+          "handle": "dontworrymomcoinverygood",
+          "url": "https://t.me/dontworrymomcoinverygood",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "🥰 코인, NFT, DAO 등 Web3 관련 생각을 나눕니다. 행복한 하루 되세요 ^^ ‼️ 방장은 절대 먼저 DM을 보내지 않습니다 !!",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "업비트 Upbit 공식 텔레그램",
+          "handle": "upbit_news",
+          "url": "https://t.me/upbit_news",
+          "type": "채널",
+          "status": "공식",
+          "description": "업비트(Upbit) 한국 공식 텔레그램 채널 @upbit_news 이제 텔레그램에서 업비트 소식을 빠르게 만나보세요!",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "에어드랍ATM",
+          "handle": "Bounty_ATM",
+          "url": "https://t.me/Bounty_ATM",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "DM : @bountyatm - 크립토 커뮤니티 - 무료 재테크 정보, 토큰세일 정보 공유 - 꾸준히 얻어갈수 있는 실물 이벤트 업로드 개설일 : 2019년 2월 3일",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "이것저것 다하는 방",
+          "handle": "web3_laborer",
+          "url": "https://t.me/web3_laborer",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "그냥 잡다한거 하는걸 기록하는 방입니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "잼민123🦅",
+          "handle": "mujammin123",
+          "url": "https://t.me/mujammin123",
+          "type": "채널",
+          "status": "개인",
+          "description": "잼민123 (텔레그램) https://t.me/mujammin123 DM : @jammin123 ❤️링크모음: https://linktr.ee/jammin123 email - gonamgi12@gmail.com 유튜브 https://www.youtu…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "쟁글 (Xangle) 공식",
           "handle": "xangle_official",
           "url": "https://t.me/xangle_official",
@@ -1196,12 +1601,30 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "젬하 크립토(GemHive)🦄 경제적 자유 이루기",
+          "handle": "GemHive",
+          "url": "https://t.me/GemHive",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "DM for Promotion or AD @gemhive88 ☑️ Twitter : https://x.com/gemhive99",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "차분남(차트분석하는남자)",
           "handle": "chavoonnam",
           "url": "https://t.me/chavoonnam",
           "type": "채널",
           "status": "공식",
           "description": "코인시황 및 차트분석 또는 이슈를 공유하는 텔레그램 채널입니다. ▶️[모든문의] @Chavoon_nam ▶️[공식 인스타그램] https://www.instagram.com/chavoonnam",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "취미생활방📮",
+          "handle": "enjoymyhobby",
+          "url": "https://t.me/enjoymyhobby",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "비트코인 & 경제 & 재테크정보를 공유드리는 방입니다 모든 글은 투자의 참고 자료일 뿐이며, 투자 판단에 대한 책임을 지지 않습니다. https://x.com/CryptoMyhobby * 홍보, 후원, 광고 : @KimYoungTaek 문의",
           "checked_at": "2026-08-21"
         },
         {
@@ -1232,12 +1655,102 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "코인같이투자 정보 에어드랍🦅",
+          "handle": "WeCryptoTogether",
+          "url": "https://t.me/WeCryptoTogether",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "중요하다고 생각하는 코인 소식과 공부한 자료 필터없이 나누는 채널! ✔️대화방: 스캐머가 많이 비공개로 전환 ✔️협력문의 @We_Crypto_Together",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "코인맵핵 🎈",
+          "handle": "centurywhale",
+          "url": "https://t.me/centurywhale",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": ".",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "코인소년과 친구들의 수다방 💬",
+          "handle": "coinboychat",
+          "url": "https://t.me/coinboychat",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "코인소년과 함께하는 소통방 ★공지방: https://t.me/coinboys → 크립토 정보 및 소식들 발빠르게 받아보세요!!",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "코인소년의 크립토 이야기 🙋‍♂️🦅",
+          "handle": "coinboys",
+          "url": "https://t.me/coinboys",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "코인소년 채널의 공지와 최신 크립토 소식들을 받아볼 수 있는 방 ★채팅방: https://t.me/coinboychat ✅ 코인소년 링크 모음: https://linktr.ee/coinboy 문의: @coinboy717 이메일: flyman@kaka…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "코인왕 ( 공지방 ◇ 에어드랍 )",
+          "handle": "Coin_Airdrop_King",
+          "url": "https://t.me/Coin_Airdrop_King",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "X l https://x.com/BlockChain_CK Channel l https://t.me/Coin_Airdrop_King Group l https://t.me/Coin_AirdropKing 1:1문의 : @xsizex / E-mail : x…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "코인왕 ( 대화방 ◇ 이벤트 )",
+          "handle": "Coin_AirdropKing",
+          "url": "https://t.me/Coin_AirdropKing",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "X l https://x.com/BlockChain_CK Channel l https://t.me/Coin_Airdrop_King Group l https://t.me/Coin_AirdropKing 1:1문의 : @xsizex / E-mail : x…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "크립토메이지",
+          "handle": "cryptocurrencymage",
+          "url": "https://t.me/cryptocurrencymage",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "코인 정보 큐레이션 채널입니다. 매수 추천이 아닌 정보 제공 목적입니다 에어드랍, AI 가이드 : https://cryptomage-mageos.pages.dev/ 텔레그램 : https://t.me/cryptocurrencymage 유튜브 : ht…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "텔레그램 코인 방,채널 - CEN",
+          "handle": "emperorcoin",
+          "url": "https://t.me/emperorcoin",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "마음껏 퍼가시고 성공투자를 기원 합니다. 항상 감사합니다^^ 본 채널은 검증되지않은 유형의 포스팅도 포함되어 있으며, 투자의 척도나 조언을 하지않습니다. 투자 시 원금 전액을 잃을 수 있습니다. 모든 투자 책임은 본인에게 있습니다. Contact I…",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "토큰포스트 공식 채널",
           "handle": "tokenpost_kr",
           "url": "https://t.me/tokenpost_kr",
           "type": "채널",
           "status": "공식",
           "description": "블록체인·가상자산 전문 미디어 토큰포스트 소식",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "폐지줍기 연구소",
+          "handle": "airdr0p_lab",
+          "url": "https://t.me/airdr0p_lab",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "크립토 폐지 수집 중! 로우코스트 로우리턴 지향 트위터 x.com/oldman_cek 링크트리 linktr.ee/updao_kr 개인 메시지 @CeK_94 * 채널 방향성을 고려하여 거래소 증정금 관련 광고는 진행하지 않고 있습니다. * 광고 및 k…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "🇰🇷 한국 암호화폐 커뮤니티",
+          "handle": "KoreanCryptoANN",
+          "url": "https://t.me/KoreanCryptoANN",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "한국 크립토 커뮤니티, 우리는 한국에서 가장 큰 커뮤니티 중 하나이며 여기에 재정적 조언이 없습니다. 모두 참조용입니다 Website : http://koreancrypto.net 트위터 : https://x.com/KoreanCryptoKOR OG…",
           "checked_at": "2026-08-21"
         }
       ]
@@ -1327,6 +1840,15 @@
       "description": "건강, 의료, 제약과 바이오 관련 정보",
       "entries": [
         {
+          "name": "(공지)메디블록 공식채널",
+          "handle": "mediblockorea",
+          "url": "https://t.me/mediblockorea",
+          "type": "채널",
+          "status": "공식",
+          "description": "블록체인 기술로 창조되는 의료의 새로운 패러다임을 선도하는 메디블록입니다 - 공식 홈페이지 : medibloc.com - 페이스북 : www.facebook.com/medibloc",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "(사)바이오헬스케어협회",
           "handle": "bioha1228",
           "url": "https://t.me/bioha1228",
@@ -1351,6 +1873,15 @@
           "type": "채널",
           "status": "커뮤니티",
           "description": "You can view and join @global_biohealthcare_news right away.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "더바이오 뉴스룸",
+          "handle": "thebio111",
+          "url": "https://t.me/thebio111",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "You can view and join @thebio111 right away.",
           "checked_at": "2026-08-21"
         },
         {
@@ -1381,12 +1912,39 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "신기술은 돈이 된다 공지방",
+          "handle": "tlsrltnf",
+          "url": "https://t.me/tlsrltnf",
+          "type": "채널",
+          "status": "개인",
+          "description": "문의사항 @rokorea 블로그:https://blog.naver.com/jinriwarman 공지방:https://t.me/tlsrltnf 채팅방:https://t.me/helpmetebi",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "에이프릴바이오 공식IR채널: 리레이팅 2026",
           "handle": "aprilbioipr",
           "url": "https://t.me/aprilbioipr",
           "type": "채널",
           "status": "공식",
           "description": "에이프릴바이오 소식을 전해드립니다",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "와이바이오로직스 IR/PR 공식 채널",
+          "handle": "ybl_irpr",
+          "url": "https://t.me/ybl_irpr",
+          "type": "채널",
+          "status": "공식",
+          "description": "와이바이오로직스(338840) IR/PR 공식 채널 홈페이지: https://ybiologics.com/kr/",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "제약/바이오/미용 원리버 Oneriver",
+          "handle": "pharmbiohana",
+          "url": "https://t.me/pharmbiohana",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "인생에 도움이 되는 바이오 영상 모음집 https://youtube.com/@Iamoneriver 바이오 시그널 랩에서 원리버와 함께하기 https://fanding.kr/@iamoneriver/membership/plan/9099/ 문의 kangx…",
           "checked_at": "2026-08-21"
         },
         {
@@ -1461,6 +2019,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "eosDAC 공식 한국어 그룹",
+          "handle": "eosdac_korea",
+          "url": "https://t.me/eosdac_korea",
+          "type": "채널",
+          "status": "공식",
+          "description": "EOS 블록 프로듀서 eosDAC의 공식 한국어방입니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "Ganada Korea Language Institute",
           "handle": "Ganada_Monywa",
           "url": "https://t.me/Ganada_Monywa",
@@ -1488,12 +2055,48 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "공모주 알리미",
+          "handle": "PublicOfferingNotice",
+          "url": "https://t.me/PublicOfferingNotice",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "소개 : https://hilarious-pearl-833.notion.site/89148aa1197646fa8465d844400e9f5f",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "공짜아저씨와 트위터",
           "handle": "AjaeTwitter",
           "url": "https://t.me/AjaeTwitter",
           "type": "채널",
           "status": "커뮤니티",
           "description": "Telegram : 공짜아저씨",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "돌곰배매직 쾌락장♨️",
+          "handle": "dolgomagic",
+          "url": "https://t.me/dolgomagic",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "You can view and join @dolgomagic right away.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "메가박스 돌비가 조아",
+          "handle": "ticcat_megabox_dolby_lover",
+          "url": "https://t.me/ticcat_megabox_dolby_lover",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "🆕 돌비시네마관 신규 회차 감지: 코엑스, 수돌비, 남돌비, 3개관 실시간 알림 🆕 돌비비전애트모스관 신규회차 감지: 구의이스트폴 1개관 실시간 알림",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "메가박스 이벤트가 조아",
+          "handle": "ticcat_megabox_event_lover",
+          "url": "https://t.me/ticcat_megabox_event_lover",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "메가박스 코엑스, 남현아, 수원ak, 강남, 구의이스트폴, 홍대, 신촌점 모니터링 이벤트, 무대인사, GV, 메가토크 등 감시",
           "checked_at": "2026-08-21"
         },
         {
@@ -1506,12 +2109,57 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "생존 가이드",
+          "handle": "survivaltips112112",
+          "url": "https://t.me/survivaltips112112",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "텔레그램 내부, 외부의 각종 이슈 및 팁 관리자 @themedata",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "안녕하세요불지옥탈출기를담습니다잘부탁드립니다",
+          "handle": "whoskoriel",
+          "url": "https://t.me/whoskoriel",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "Chronicle DevOps Engineer (Remote) 🇪🇺🇺🇸 💬 문의: @devkoriel",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "에어드랍코리아 (Airdropkorea)",
+          "handle": "airdrop_kor",
+          "url": "https://t.me/airdrop_kor",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "🇰🇷트위터: https://twitter.com/AirdropKor_eth 텔레그램공지방 : t.me/airdrop_kor 텔레그램채팅방: t.me/airdropchatting 텔레그램 문의 : @airdropkoreahelp",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "오픈스트리트맵 한국/조선(OpenStreetMap Korea)",
           "handle": "OSMKorea",
           "url": "https://t.me/OSMKorea",
           "type": "채널",
           "status": "공식",
           "description": "한반도(한국/조선) 지역을 편집하는 OSM 기여자의 비공식 텔레그램 사랑방입니다. Unofficial group of OSM contributors who edit the Korean Peninsula(한국/조선) region * 공식 커뮤니티(Of…",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "유빈 아카이브 대토론회",
+          "handle": "yubin_discussion",
+          "url": "https://t.me/yubin_discussion",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "대학 입시에 관하여 토론하는 채팅방입니다.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "잉글랜드 집현전",
+          "handle": "engzip",
+          "url": "https://t.me/engzip",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "You can view and join @engzip right away.",
           "checked_at": "2026-08-21"
         },
         {
@@ -1551,12 +2199,55 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "타점 읽어주는 여자(타자)",
+          "handle": "tazastock",
+          "url": "https://t.me/tazastock",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "You can view and join @tazastock right away.",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "🇺🇸백악관🏛",
           "handle": "CONGBANJANG",
           "url": "https://t.me/CONGBANJANG",
           "type": "채널",
           "status": "커뮤니티",
           "description": "You can view and join @CONGBANJANG right away.",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "🔥요블이 세상살이🔥",
+          "handle": "yobeullyANN",
+          "url": "https://t.me/yobeullyANN",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "📌ANN [공지방] @yobeullyANN 📌Chat [채팅방] @yobeully 📌 Twitter https://twitter.com/cryptoyobeul 📌Admin : @yobeul",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "🔥요블이네🔥",
+          "handle": "yobeully",
+          "url": "https://t.me/yobeully",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "📌ANN [공지방] : @yobeullyANN 📌Chat [채팅방] : @yobeully 📌Admin : @yobeul @kunbitt 📌Twitter : https://twitter.com/cryptoyobeul",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "overseas-korean",
+      "name": "해외 한인사회",
+      "description": "해외 한인과 교민사회를 위한 공개 정보",
+      "entries": [
+        {
+          "name": "[한인회 공식] 한인일보 정보마당",
+          "handle": "uzkyomin",
+          "url": "https://t.me/uzkyomin",
+          "type": "채널",
+          "status": "공식",
+          "description": "You can view and join @uzkyomin right away.",
           "checked_at": "2026-08-21"
         }
       ]
