@@ -32,11 +32,10 @@
 <!-- CHANNELS:START -->
 > **246개** 공개 채널·그룹·봇 · **11개** 카테고리 · **2026-08-21** 점검
 >
-> 아래 카테고리를 펼쳐 보세요. 브라우저의 페이지 찾기로 채널명이나 `@아이디`를 검색할 수 있습니다.
+> 모든 카테고리가 펼쳐져 있습니다. 브라우저의 페이지 찾기로 채널명이나 `@아이디`를 검색할 수 있습니다.
 
 <a id="tech-ai"></a>
-<details>
-<summary><strong>💻 개발 · 기술 · AI</strong> <sub>7개</sub></summary>
+### 💻 개발 · 기술 · AI (7개)
 
 > 개발, 오픈소스, 기술 산업과 인공지능 소식 · 참가자 수 내림차순
 
@@ -50,11 +49,8 @@
 | 👥 [나박AI 넥라인 확인 방](https://t.me/coinaiai_talk)<br><sub><code>@coinaiai_talk</code> · 그룹</sub> | 커뮤니티 | 488 | nabak 바이비트선물심볼 5m, 15m, 1h, 4h, 1d, 1w nabak binance:바이낸스선물심볼 5m, 15m, 1h, 4h, 1d, 1w *… |
 | 📢 [크립토DEV🐳🥷](https://t.me/dewey_dev)<br><sub><code>@dewey_dev</code> · 채널</sub> | 개인 | 350 | 크립토&금융 이야기 좋아합니다 AI SW 개발자가 말아주는 기술이야기 |
 
-</details>
-
 <a id="news-knowledge"></a>
-<details>
-<summary><strong>📰 뉴스 · 지식 · 교육</strong> <sub>18개</sub></summary>
+### 📰 뉴스 · 지식 · 교육 (18개)
 
 > 뉴스, 인문 지식과 학습 자료 · 참가자 수 내림차순
 
@@ -79,11 +75,8 @@
 | 📢 [전자신문 프리미엄](https://t.me/etnewspremium)<br><sub><code>@etnewspremium</code> · 채널</sub> | 기관/회사 | 46 | 전자신문 프리미엄 기사 링크 모음 |
 | 📢 [외투영공: 외신·투자·영어·공부](https://t.me/fnnews_en)<br><sub><code>@fnnews_en</code> · 채널</sub> | 커뮤니티 | 16 | 주요 외신을 활용한 경제·금융 정보와 영어 학습 |
 
-</details>
-
 <a id="life"></a>
-<details>
-<summary><strong>🛍️ 생활 · 환경 · 쇼핑</strong> <sub>3개</sub></summary>
+### 🛍️ 생활 · 환경 · 쇼핑 (3개)
 
 > 생활에 바로 활용할 수 있는 정보와 알림 · 참가자 수 내림차순
 
@@ -93,11 +86,8 @@
 | 📢 [한국 커뮤니티 핫딜 모아보기](https://t.me/hotdeal_kr)<br><sub><code>@hotdeal_kr</code> · 채널</sub> | 커뮤니티 | 1,528 | 여러 국내 커뮤니티의 핫딜 게시물을 모아 제공 |
 | 📢 [통합대기지수](https://t.me/airkorea)<br><sub><code>@airkorea</code> · 채널</sub> | 커뮤니티 | 1,077 | 한국환경공단 자료를 활용한 미세먼지·대기질 알림 |
 
-</details>
-
 <a id="careers"></a>
-<details>
-<summary><strong>💼 취업 · 커리어</strong> <sub>2개</sub></summary>
+### 💼 취업 · 커리어 (2개)
 
 > 채용 공고와 커리어 정보 · 참가자 수 내림차순
 
@@ -106,11 +96,8 @@
 | 📢 [금융권 채용공고](https://t.me/KrFinJobPostings)<br><sub><code>@KrFinJobPostings</code> · 채널</sub> | 커뮤니티 | 11,450 | 금융권 채용공고를 모아 제공하는 알림 채널 |
 | 📢 [Equity Jobs x moneysonata](https://t.me/equityjobs)<br><sub><code>@equityjobs</code> · 채널</sub> | 커뮤니티 | 451 | VC·PE·IB 등 금융권 경력직 채용 정보와 관련 자료 |
 
-</details>
-
 <a id="real-estate"></a>
-<details>
-<summary><strong>🏠 부동산</strong> <sub>4개</sub></summary>
+### 🏠 부동산 (4개)
 
 > 부동산 뉴스, 정책과 실거래 정보 · 참가자 수 내림차순
 
@@ -123,11 +110,8 @@
 | 📢 [아파트미(me) 실거래 배포](https://t.me/apt2me)<br><sub><code>@apt2me</code> · 채널</sub> | 커뮤니티 | 7,789 | 아파트 실거래 정보를 제공하는 알림 채널 |
 | 📢 [부동산뉴스 채널_서울경제](https://t.me/sedaily_real_estate)<br><sub><code>@sedaily_real_estate</code> · 채널</sub> | 기관/회사 | 2,132 | 서울경제의 분양·정책·부동산 시장 뉴스 |
 
-</details>
-
 <a id="finance"></a>
-<details>
-<summary><strong>📈 경제 · 증권 · 리서치</strong> <sub>117개</sub></summary>
+### 📈 경제 · 증권 · 리서치 (117개)
 
 > 경제 뉴스, 증권사 리서치와 시장 자료 · 참가자 수 내림차순
 
@@ -253,11 +237,8 @@
 | 📢 [두부분식 공식 채널](https://t.me/dobuannouncement)<br><sub><code>@dobuannouncement</code> · 채널</sub> | 공식 | 567 | 두부분식은 생각을 나누고 더해, 함께 부를 키워가는 하나증권의 신개념 투자 커뮤니티입니다. 모든 정보는 투자 권유 목적이 아니며 투자의 책임은 항상 본인에게… |
 | 📢 [YSK China sector](https://t.me/YSK_China_sector)<br><sub><code>@YSK_China_sector</code> · 채널</sub> | 커뮤니티 | 206 | 유안타증권 리서치 중국산업 |
 
-</details>
-
 <a id="crypto"></a>
-<details>
-<summary><strong>🪙 블록체인 · 가상자산</strong> <sub>43개</sub></summary>
+### 🪙 블록체인 · 가상자산 (43개)
 
 > 블록체인 산업과 가상자산 서비스 소식 · 참가자 수 내림차순
 
@@ -309,11 +290,8 @@
 | 📢 [쟁글 (Xangle) 공식](https://t.me/xangle_official)<br><sub><code>@xangle_official</code> · 채널</sub> | 공식 | 23 | 가상자산 공시 및 온체인 데이터 인텔리전스 플랫폼 쟁글 |
 | 📢 [블루밍비트](https://t.me/bloomingbit)<br><sub><code>@bloomingbit</code> · 채널</sub> | 공식 | — | 한국경제신문 블록체인·가상자산 전문 미디어 |
 
-</details>
-
 <a id="telegram-tools"></a>
-<details>
-<summary><strong>🤖 텔레그램 공식 채널 · 도구</strong> <sub>8개</sub></summary>
+### 🤖 텔레그램 공식 채널 · 도구 (8개)
 
 > 텔레그램 소식과 기본 제공 채널·봇 · 참가자 수 내림차순
 
@@ -328,11 +306,8 @@
 | 🤖 [Wikipedia Search](https://t.me/wiki)<br><sub><code>@wiki</code> · 봇</sub> | 공식 | — | 대화창에서 위키백과 검색 |
 | 🤖 [YouTube Video Search](https://t.me/vid)<br><sub><code>@vid</code> · 봇</sub> | 공식 | — | 대화창에서 YouTube 영상 검색 |
 
-</details>
-
 <a id="health"></a>
-<details>
-<summary><strong>🩺 건강 · 의료</strong> <sub>13개</sub></summary>
+### 🩺 건강 · 의료 (13개)
 
 > 건강, 의료, 제약과 바이오 관련 정보 · 참가자 수 내림차순
 
@@ -354,11 +329,8 @@
 | 📢 [와이바이오로직스 IR/PR 공식 채널](https://t.me/ybl_irpr)<br><sub><code>@ybl_irpr</code> · 채널</sub> | 공식 | 1,420 | 와이바이오로직스(338840) IR/PR 공식 채널 홈페이지: |
 | 📢 [(공지)메디블록 공식채널](https://t.me/mediblockorea)<br><sub><code>@mediblockorea</code> · 채널</sub> | 공식 | 962 | 블록체인 기술로 창조되는 의료의 새로운 패러다임을 선도하는 메디블록입니다 - 공식 홈페이지 : - 페이스북 : |
 
-</details>
-
 <a id="personal-misc"></a>
-<details>
-<summary><strong>👤 개인 · 기타</strong> <sub>30개</sub></summary>
+### 👤 개인 · 기타 (30개)
 
 > 개인이 운영하는 공개 채널과 기타 공개 커뮤니티 · 참가자 수 내림차순
 
@@ -395,19 +367,14 @@
 | 👥 [eosDAC 공식 한국어 그룹](https://t.me/eosdac_korea)<br><sub><code>@eosdac_korea</code> · 그룹</sub> | 공식 | 182 | EOS 블록 프로듀서 eosDAC의 공식 한국어방입니다. |
 | 👥 [오픈스트리트맵 한국/조선(OpenStreetMap Korea)](https://t.me/OSMKorea)<br><sub><code>@OSMKorea</code> · 그룹</sub> | 공식 | 148 | 한반도(한국/조선) 지역을 편집하는 OSM 기여자의 비공식 텔레그램 사랑방입니다. Unofficial group of OSM contributors who… |
 
-</details>
-
 <a id="overseas-korean"></a>
-<details>
-<summary><strong>🌏 해외 한인사회</strong> <sub>1개</sub></summary>
+### 🌏 해외 한인사회 (1개)
 
 > 해외 한인과 교민사회를 위한 공개 정보 · 참가자 수 내림차순
 
 | 채널 | 운영 | 구독자·멤버 | 소개 |
 | --- | :---: | ---: | --- |
 | 📢 [[한인회 공식] 한인일보 정보마당](https://t.me/uzkyomin)<br><sub><code>@uzkyomin</code> · 채널</sub> | 공식 | 2,604 | 공개 텔레그램 채널 |
-
-</details>
 <!-- CHANNELS:END -->
 
 ## 기여하기

@@ -116,9 +116,7 @@ def render_channels(categories: list[dict]) -> str:
         icon = CATEGORY_ICONS.get(category["slug"], "📂")
         lines = [
             f"<a id=\"{category['slug']}\"></a>",
-            "<details>",
-            f"<summary><strong>{icon} {category['name']}</strong> "
-            f"<sub>{len(entries):,}개</sub></summary>",
+            f"### {icon} {category['name']} ({len(entries):,}개)",
             "",
             f"> {category['description']} · 참가자 수 내림차순",
         ]
@@ -143,7 +141,6 @@ def render_channels(categories: list[dict]) -> str:
                 f"| {channel} | {entry['status']} | "
                 f"{format_participants(entry)} | {description} |"
             )
-        lines.extend(["", "</details>"])
         sections.append("\n".join(lines))
     total = sum(len(category["entries"]) for category in categories)
     latest = max(
@@ -154,7 +151,7 @@ def render_channels(categories: list[dict]) -> str:
     summary = (
         f"> **{total:,}개** 공개 채널·그룹·봇 · "
         f"**{len(categories)}개** 카테고리 · **{latest}** 점검\n>\n"
-        "> 아래 카테고리를 펼쳐 보세요. 브라우저의 페이지 찾기로 채널명이나 `@아이디`를 검색할 수 있습니다."
+        "> 모든 카테고리가 펼쳐져 있습니다. 브라우저의 페이지 찾기로 채널명이나 `@아이디`를 검색할 수 있습니다."
     )
     return summary + "\n\n" + "\n\n".join(sections)
 
