@@ -15,6 +15,15 @@
           "status": "공식",
           "description": "개발·기술·제품·오픈소스·스타트업 주요 소식",
           "checked_at": "2026-08-21"
+        },
+        {
+          "name": "AI MASTERS",
+          "handle": "ai_masters_community",
+          "url": "https://t.me/ai_masters_community",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "AI 큐레이션과 창작자 커뮤니티 소식",
+          "checked_at": "2026-08-21"
         }
       ]
     },
@@ -49,6 +58,15 @@
           "status": "커뮤니티",
           "description": "주요 외신을 활용한 경제·금융 정보와 영어 학습",
           "checked_at": "2026-08-21"
+        },
+        {
+          "name": "텔레브리핑 - 캄보디아 뉴스",
+          "handle": "newsbriefingcambodia",
+          "url": "https://t.me/newsbriefingcambodia",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "캄보디아 현지 소식을 한국어로 전하는 뉴스 채널",
+          "checked_at": "2026-08-21"
         }
       ]
     },
@@ -73,6 +91,75 @@
           "type": "채널",
           "status": "커뮤니티",
           "description": "한국환경공단 자료를 활용한 미세먼지·대기질 알림",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "careers",
+      "name": "취업 · 커리어",
+      "description": "채용 공고와 커리어 정보",
+      "entries": [
+        {
+          "name": "Equity Jobs x moneysonata",
+          "handle": "equityjobs",
+          "url": "https://t.me/equityjobs",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "VC·PE·IB 등 금융권 경력직 채용 정보와 관련 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "금융권 채용공고",
+          "handle": "KrFinJobPostings",
+          "url": "https://t.me/KrFinJobPostings",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "금융권 채용공고를 모아 제공하는 알림 채널",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "real-estate",
+      "name": "부동산",
+      "description": "부동산 뉴스, 정책과 실거래 정보",
+      "notice": "부동산 관련 정보는 시점과 지역에 따라 달라질 수 있습니다. 계약이나 투자 전 공공자료와 전문가를 통해 다시 확인하세요.",
+      "entries": [
+        {
+          "name": "부동산뉴스 채널_서울경제",
+          "handle": "sedaily_real_estate",
+          "url": "https://t.me/sedaily_real_estate",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "서울경제의 분양·정책·부동산 시장 뉴스",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "아파트미(me) 실거래 배포",
+          "handle": "apt2me",
+          "url": "https://t.me/apt2me",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "아파트 실거래 정보를 제공하는 알림 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "유튜브 채부심 Official 채널",
+          "handle": "aptvalueprice",
+          "url": "https://t.me/aptvalueprice",
+          "type": "채널",
+          "status": "개인",
+          "description": "채상욱 운영자의 부동산·주식·자산관리 관점 공유",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "부동산 급등일보",
+          "handle": "fastlandnews",
+          "url": "https://t.me/fastlandnews",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "부동산 정책·세금·수급과 시장 뉴스 큐레이션",
           "checked_at": "2026-08-21"
         }
       ]
@@ -225,6 +312,114 @@
           "type": "채널",
           "status": "커뮤니티",
           "description": "경제 뉴스·증권사 리포트·글로벌 시장 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "성장금융브리핑(VC/PE)",
+          "handle": "kgrowth",
+          "url": "https://t.me/kgrowth",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "VC·PE와 성장금융 관련 뉴스 및 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한국투자증권 기관영업부 이민근",
+          "handle": "mk81_koreainvestment",
+          "url": "https://t.me/mk81_koreainvestment",
+          "type": "채널",
+          "status": "개인",
+          "description": "기관영업 관점의 시장 자료와 개인 의견 공유",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한화 기계·우주·방산·조선 배성조",
+          "handle": "hanhwasmall",
+          "url": "https://t.me/hanhwasmall",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "기계·우주·방산·조선 업종 리서치 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "매경 월가월부",
+          "handle": "mkglobalinvest",
+          "url": "https://t.me/mkglobalinvest",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "매일경제의 미국 증시·글로벌 투자 콘텐츠",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "IR KUDOS",
+          "handle": "irgoirgo",
+          "url": "https://t.me/irgoirgo",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "기업 IR과 주주 커뮤니케이션 관련 정보",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "증권사 신규 리포트 자동 알림",
+          "handle": "repostory123",
+          "url": "https://t.me/repostory123",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "증권사 신규 리포트를 자동으로 모아 제공",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "KB증권 건설 장문준",
+          "handle": "KB_EPC_MJ",
+          "url": "https://t.me/KB_EPC_MJ",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "KB증권 건설 업종 리서치와 산업 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "AWAKE - 실시간 주식 공시 정리채널",
+          "handle": "darthacking",
+          "url": "https://t.me/darthacking",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "주요 전자공시를 선별해 요약하는 자동 알림 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "DAOL 조선·기계·방산 최광식",
+          "handle": "HI_GS",
+          "url": "https://t.me/HI_GS",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "조선·기계·방산 업종 보고서와 산업 뉴스",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "메리츠증권 리서치",
+          "handle": "meritz_research",
+          "url": "https://t.me/meritz_research",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "공표된 메리츠증권 리서치 자료 공유",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "시그널랩 리서치",
+          "handle": "siglab",
+          "url": "https://t.me/siglab",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "금융시장 분석과 투자 리서치 콘텐츠",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "IT는 SK",
+          "handle": "skitteam",
+          "url": "https://t.me/skitteam",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "SK증권 IT·반도체·테크 업종 리서치 자료",
           "checked_at": "2026-08-21"
         }
       ]
