@@ -29,9 +29,11 @@ def main():
                 "운영구분": entry.get("status", ""),
                 "설명": entry.get("description", ""),
                 "확인일자": entry.get("checked_at", ""),
+                "참가자수": entry.get("participants", ""),
+                "참가자유형": entry.get("participant_kind", ""),
             })
 
-    fieldnames = ["카테고리", "슬러그", "채널명", "핸들", "URL", "유형", "운영구분", "설명", "확인일자"]
+    fieldnames = ["카테고리", "슬러그", "채널명", "핸들", "URL", "유형", "운영구분", "설명", "확인일자", "참가자수", "참가자유형"]
 
     # Write CSV with UTF-8 BOM for Excel compatibility
     with open(CSV_PATH, "w", encoding="utf-8-sig", newline="") as f:

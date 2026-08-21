@@ -29,9 +29,11 @@
 
 1. `data/channels.json`의 알맞은 카테고리에 항목을 추가합니다.
 2. `checked_at`에 직접 확인한 날짜를 `YYYY-MM-DD` 형식으로 기록합니다.
-3. 아래 명령으로 데이터, README와 링크를 검사합니다.
+3. 아래 명령으로 참가자 수와 CSV를 갱신하고 README와 링크를 검사합니다.
 
 ```bash
+python scripts/update_participant_counts.py --missing-only --apply
+python scripts/export_csv.py
 python scripts/render_readme.py
 python scripts/render_readme.py --check
 python scripts/check_links.py
