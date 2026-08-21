@@ -33,4 +33,3 @@ jobs:
 
       - name: 텔레그램 링크 확인
         run: python scripts/check_links.py --delay 0.5 --retries 2
-

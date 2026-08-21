@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch, validate, and update Korean Telegram channels using Apify and direct scraping."""
+"""Fetch, validate, and update curated Korean Telegram public channels."""
 
 import argparse
 import html
@@ -10,15 +10,9 @@ import time
 import urllib.request
 from datetime import datetime
 from pathlib import Path
-from dotenv import dotenv_values
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "channels.json"
-PARENT_ENV = ROOT.parent / ".env"
-
-# Apify token loader
-config = dotenv_values(PARENT_ENV) if PARENT_ENV.exists() else {}
-APIFY_TOKEN = config.get("APIFY_TOKEN_ACCOUNT2") or config.get("APIFY_TOKEN")
 
 
 def fetch_channel_info(handle: str, timeout: float = 8.0) -> dict | None:
@@ -55,11 +49,15 @@ def fetch_channel_info(handle: str, timeout: float = 8.0) -> dict | None:
         return None
 
     title = html.unescape(title_m.group(1)).strip()
-    if title in {"Telegram – a new era of messaging", "Telegram: Contact"}:
+    if title in {"Telegram – a new era of messaging", "Telegram: Contact"} or title.startswith(
+        "Telegram: Contact @"
+    ):
         return None
 
     description = html.unescape(desc_m.group(1)).strip() if desc_m else ""
     extra = sub_m.group(1).strip() if sub_m else ""
+    if not extra:
+        return None
 
     return {
         "handle": clean_handle,
@@ -87,40 +85,11 @@ def main():
     today = datetime.now().strftime("%Y-%m-%d")
 
     print(f"[{today}] 한국어 텔레그램 채널 수집 및 검증 시작...")
-    if APIFY_TOKEN:
-        print(f"Apify 토큰 확인 완료: {APIFY_TOKEN[:12]}... (markyura22 계정)")
-
     # Candidate channels by category to check and add if valid
     candidates = {
-        "tech-ai": [
-            ("teddynote", "테디노트", "커뮤니티", "AI 딥러닝·머신러닝·데이터 분석 관련 지식 공유"),
-            ("promptengineeringkr", "프롬프트 엔지니어링 코리아", "커뮤니티", "생성형 AI 및 프롬프트 엔지니어링 정보"),
-            ("clien_today", "클리앙 인기글", "커뮤니티", "클리앙 커뮤니티 주요 인기 게시글 알림"),
-            ("korea_it_news", "IT 뉴스 모아보기", "커뮤니티", "국내외 IT·빅테크 주요 뉴스 브리핑"),
-            ("modulabs", "모두의연구소", "공식", "AI 연구 커뮤니티 모두의연구소 소식"),
-        ],
-        "news-knowledge": [
-            ("yonhapnewsalert", "연합뉴스 속보", "공식", "연합뉴스 실시간 주요 속보 알림"),
-            ("bbc_korean", "BBC News 코리아", "공식", "BBC 코리아 공식 뉴스 및 심층 보도"),
-            ("korea_economy", "한국경제 뉴스", "커뮤니티", "한국경제 주요 기사 및 경제 속보"),
-        ],
-        "life": [
-            ("fmkorea_hotdeal", "에펨코리아 핫딜 알리미", "커뮤니티", "에펨코리아 알뜰구매 게시판 핫딜 실시간 알림"),
-            ("quasarzone_hotdeal", "퀘이사존 지름·할인정보", "커뮤니티", "퀘이사존 지름/할인정보 게시판 특가 알림"),
-            ("ppomppu_hotdeal", "뽐뿌 뽐뿌게시판 핫딜", "커뮤니티", "뽐뿌 국내 뽐뿌게시판 실시간 핫딜 알림"),
-            ("alrimbot", "공공알리미 (재난·속보)", "커뮤니티", "재난문자 및 주요 공공기관 알림 서비스"),
-        ],
-        "finance": [
-            ("sh_research", "신한투자증권 리서치", "기관/회사", "신한투자증권 발간 리포트 및 시황 자료"),
-            ("twealth", "토스증권 데일리 리포트", "공식", "토스증권 주요 시장 동향과 투자 콘텐츠"),
-            ("kiwoom_research", "키움증권 리서치", "기관/회사", "키움증권 리서치센터 투자전략 및 기업분석"),
-            ("samsung_research", "삼성증권 리서치", "기관/회사", "삼성증권 글로벌 투자정보 및 리포트"),
-        ],
         "crypto": [
-            ("coinness_kr", "코인니스 실시간 속보", "공식", "암호화폐 투자 정보 플랫폼 코인니스 속보"),
             ("bloomingbit", "블루밍비트", "공식", "한국경제신문 블록체인·가상자산 전문 미디어"),
             ("xangle_official", "쟁글 (Xangle) 공식", "공식", "가상자산 공시 및 온체인 데이터 플랫폼 쟁글"),
-            ("bithumb_official", "빗썸 공식 채널", "공식", "빗썸 거래소 주요 공지 및 이벤트 안내"),
         ],
     }
 

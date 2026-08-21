@@ -15,51 +15,6 @@
           "status": "공식",
           "description": "개발·기술·제품·오픈소스·스타트업 주요 소식",
           "checked_at": "2026-08-21"
-        },
-        {
-          "name": "테디노트",
-          "handle": "teddynote",
-          "url": "https://t.me/teddynote",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "AI·딥러닝·머신러닝·데이터 분석 관련 튜토리얼 및 지식 공유",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "프롬프트 엔지니어링 코리아",
-          "handle": "promptengineeringkr",
-          "url": "https://t.me/promptengineeringkr",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "생성형 AI 모델(LLM) 프롬프트 및 최신 AI 동향",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "클리앙 인기글",
-          "handle": "clien_today",
-          "url": "https://t.me/clien_today",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "클리앙 커뮤니티 주요 인기 게시글 실시간 알림",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "IT 뉴스 모아보기",
-          "handle": "korea_it_news",
-          "url": "https://t.me/korea_it_news",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "국내외 IT·스타트업·빅테크 주요 뉴스 브리핑",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "모두의연구소",
-          "handle": "modulabs",
-          "url": "https://t.me/modulabs",
-          "type": "채널",
-          "status": "공식",
-          "description": "AI 연구 커뮤니티 모두의연구소(ModuLabs) 공지 및 소식",
-          "checked_at": "2026-08-21"
         }
       ]
     },
@@ -94,33 +49,6 @@
           "status": "커뮤니티",
           "description": "주요 외신을 활용한 경제·금융 정보와 영어 학습",
           "checked_at": "2026-08-21"
-        },
-        {
-          "name": "연합뉴스 속보",
-          "handle": "yonhapnewsalert",
-          "url": "https://t.me/yonhapnewsalert",
-          "type": "채널",
-          "status": "공식",
-          "description": "국가기간뉴스통신사 연합뉴스 실시간 주요 속보 알림",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "BBC News 코리아",
-          "handle": "bbc_korean",
-          "url": "https://t.me/bbc_korean",
-          "type": "채널",
-          "status": "공식",
-          "description": "BBC 코리아 공식 뉴스 및 글로벌 심층 보도",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "한국경제 뉴스",
-          "handle": "korea_economy",
-          "url": "https://t.me/korea_economy",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "한국경제 주요 기사 및 시장 경제 속보 요약",
-          "checked_at": "2026-08-21"
         }
       ]
     },
@@ -145,42 +73,6 @@
           "type": "채널",
           "status": "커뮤니티",
           "description": "한국환경공단 자료를 활용한 미세먼지·대기질 알림",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "에펨코리아 핫딜 알리미",
-          "handle": "fmkorea_hotdeal",
-          "url": "https://t.me/fmkorea_hotdeal",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "에펨코리아 알뜰구매 게시판 추천 핫딜 실시간 알림",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "퀘이사존 지름·할인정보",
-          "handle": "quasarzone_hotdeal",
-          "url": "https://t.me/quasarzone_hotdeal",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "퀘이사존 지름/할인정보 게시판 인기 특가 알림",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "뽐뿌 핫딜 알리미",
-          "handle": "ppomppu_hotdeal",
-          "url": "https://t.me/ppomppu_hotdeal",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "뽐뿌 국내 뽐뿌게시판 실시간 핫딜 알림",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "공공알리미 (재난·속보)",
-          "handle": "alrimbot",
-          "url": "https://t.me/alrimbot",
-          "type": "채널",
-          "status": "커뮤니티",
-          "description": "재난문자 및 주요 공공기관 알림 서비스",
           "checked_at": "2026-08-21"
         }
       ]
@@ -334,33 +226,6 @@
           "status": "커뮤니티",
           "description": "경제 뉴스·증권사 리포트·글로벌 시장 자료",
           "checked_at": "2026-08-21"
-        },
-        {
-          "name": "신한투자증권 리서치",
-          "handle": "sh_research",
-          "url": "https://t.me/sh_research",
-          "type": "채널",
-          "status": "기관/회사",
-          "description": "신한투자증권 발간 리포트 및 금융시장 시황 자료",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "키움증권 리서치",
-          "handle": "kiwoom_research",
-          "url": "https://t.me/kiwoom_research",
-          "type": "채널",
-          "status": "기관/회사",
-          "description": "키움증권 리서치센터 투자전략 및 기업분석 보고서",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "삼성증권 리서치",
-          "handle": "samsung_research",
-          "url": "https://t.me/samsung_research",
-          "type": "채널",
-          "status": "기관/회사",
-          "description": "삼성증권 글로벌 투자정보 및 데일리 리서치",
-          "checked_at": "2026-08-21"
         }
       ]
     },
@@ -398,15 +263,6 @@
           "checked_at": "2026-08-21"
         },
         {
-          "name": "코인니스 실시간 속보",
-          "handle": "coinness_kr",
-          "url": "https://t.me/coinness_kr",
-          "type": "채널",
-          "status": "공식",
-          "description": "암호화폐 투자 정보 플랫폼 코인니스 실시간 코인 뉴스",
-          "checked_at": "2026-08-21"
-        },
-        {
           "name": "블루밍비트",
           "handle": "bloomingbit",
           "url": "https://t.me/bloomingbit",
@@ -422,15 +278,6 @@
           "type": "채널",
           "status": "공식",
           "description": "가상자산 공시 및 온체인 데이터 인텔리전스 플랫폼 쟁글",
-          "checked_at": "2026-08-21"
-        },
-        {
-          "name": "빗썸 공식 채널",
-          "handle": "bithumb_official",
-          "url": "https://t.me/bithumb_official",
-          "type": "채널",
-          "status": "공식",
-          "description": "빗썸 가상자산 거래소 주요 공지 및 이벤트 안내",
           "checked_at": "2026-08-21"
         }
       ]

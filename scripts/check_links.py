@@ -82,7 +82,11 @@ def validate_entries(entries: list[dict]) -> list[str]:
     return errors
 
 
-def fetch_title(url: str, timeout: float, retries: int) -> str:
+def is_generic_contact_page(title: str) -> bool:
+    return title in GENERIC_TELEGRAM_TITLES or title.startswith("Telegram: Contact @")
+
+
+def fetch_page(url: str, timeout: float, retries: int) -> tuple[str, str]:
     request = urllib.request.Request(
         url,
         headers={
@@ -98,7 +102,7 @@ def fetch_title(url: str, timeout: float, retries: int) -> str:
             match = TITLE_PATTERN.search(body)
             if not match:
                 raise ValueError("og:title metadata not found")
-            return html.unescape(match.group(1)).strip()
+            return html.unescape(match.group(1)).strip(), body
         except (urllib.error.URLError, TimeoutError, ValueError) as error:
             last_error = error
             if attempt < retries:
@@ -138,9 +142,11 @@ def main() -> int:
     for index, entry in enumerate(entries, start=1):
         handle = entry["handle"]
         try:
-            title = fetch_title(entry["url"], args.timeout, args.retries)
-            if title in GENERIC_TELEGRAM_TITLES:
+            title, body = fetch_page(entry["url"], args.timeout, args.retries)
+            if is_generic_contact_page(title):
                 raise RuntimeError(f"generic Telegram page returned: {title}")
+            if "tgme_page_extra" not in body:
+                raise RuntimeError("public channel, group, or bot metadata not found")
             print(f"[{index:02}/{len(entries)}] OK   @{handle}")
         except RuntimeError as error:
             failed.append(handle)

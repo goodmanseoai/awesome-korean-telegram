@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch and enrich Telegram channel metadata using Apify and Telegram public previews."""
+"""Fetch and inspect Telegram public channel metadata."""
 
 import json
 import re
@@ -7,14 +7,9 @@ import urllib.request
 import html
 import time
 from pathlib import Path
-from dotenv import dotenv_values
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "data" / "channels.json"
-PARENT_ENV = ROOT.parent / ".env"
-
-config = dotenv_values(PARENT_ENV) if PARENT_ENV.exists() else {}
-APIFY_TOKEN = config.get("APIFY_TOKEN_ACCOUNT2") or config.get("APIFY_TOKEN")
 
 
 def fetch_channel_info(handle: str, timeout: float = 10.0) -> dict | None:
@@ -45,11 +40,15 @@ def fetch_channel_info(handle: str, timeout: float = 10.0) -> dict | None:
         return None
 
     title = html.unescape(title_m.group(1)).strip()
-    if title in {"Telegram – a new era of messaging", "Telegram: Contact"}:
+    if title in {"Telegram – a new era of messaging", "Telegram: Contact"} or title.startswith(
+        "Telegram: Contact @"
+    ):
         return None
 
     description = html.unescape(desc_m.group(1)).strip() if desc_m else ""
     extra = sub_m.group(1).strip() if sub_m else ""
+    if not extra:
+        return None
 
     return {
         "handle": handle,
