@@ -32,7 +32,7 @@
 ## 채널 목록
 
 <!-- CHANNELS:START -->
-현재 **241개**의 공개 채널·봇을 수록하고 있습니다.
+현재 **246개**의 공개 채널·봇을 수록하고 있습니다.
 
 <a id="tech-ai"></a>
 ### 개발 · 기술 · AI (7)
@@ -111,7 +111,7 @@
 | [유튜브 채부심 Official 채널](https://t.me/aptvalueprice) `@aptvalueprice` | 채널 | 개인 | 채상욱 운영자의 부동산·주식·자산관리 관점 공유 | 2026-08-21 |
 
 <a id="finance"></a>
-### 경제 · 증권 · 리서치 (116)
+### 경제 · 증권 · 리서치 (117)
 
 경제 뉴스, 증권사 리서치와 시장 자료
 
@@ -178,6 +178,7 @@
 | [메리츠 투자전략 황수욱](https://t.me/soowook_hwang) `@soowook_hwang` | 채널 | 개인 | 탑다운 투자전략 자료를 공유하는 애널리스트 채널 | 2026-08-21 |
 | [메리츠증권 리서치](https://t.me/meritz_research) `@meritz_research` | 채널 | 기관/회사 | 공표된 메리츠증권 리서치 자료 공유 | 2026-08-21 |
 | [메리츠증권 투자전략팀](https://t.me/Meritz_strategy) `@Meritz_strategy` | 채널 | 기관/회사 | 국내외 전략·경제·채권·계량·시황 자료 | 2026-08-21 |
+| [미국 주식 인사이더](https://t.me/insidertracking) `@insidertracking` | 채널 | 커뮤니티 | 미국주식·크립토·국제정치와 속보를 공유하는 채널 | 2026-08-21 |
 | [미국주식과 투자이야기](https://t.me/itechkorea) `@itechkorea` | 채널 | 커뮤니티 | 트위터 -> https://twitter.com/itechkoreallc 스레드 -> https://www.threads.net/@itechkorea 미주투 카톡 단톡방 -> https://open.kakao.com/o/g3e8yxBc 비번: usi… | 2026-08-21 |
 | [번개맞은뉴스](https://t.me/stock_messenger) `@stock_messenger` | 채널 | 커뮤니티 | 주도주와 관련 섹터 뉴스를 추적하는 채널 | 2026-08-21 |
 | [불스해적단](https://t.me/bulls_pirates) `@bulls_pirates` | 채널 | 개인 | THINK SMART, ACT PIRATES ※커뮤니티 이용 유의사항※ 📩: Noterminus@naver.com - 본 커뮤니티에서 제공되는 분석과 공유되는 관점, 차트 관련 학습 자료 등은 특정 자산의 매매 시기나 금액을 제시하는 투자 권유가 아… | 2026-08-21 |
@@ -237,7 +238,7 @@
 | [🗽엄브렐라(Umbrella Research) 리서치+ 네프콘 옆집부자형 since 2020](https://t.me/umbrellaresearch) `@umbrellaresearch` | 채널 | 개인 | 엄브렐라 리서치 플랫폼은 CP(Contents Provider)와 함께 양질의 컨텐츠를 VVIP에게 제공하는 프리미엄 서비스입니다. 전직 애널리스트와 펀드매니저가 드리는 색다른 주식투자전략을 체험해보세요. 종목 매수매도 보다는 포트폴리오전략과 색다른… | 2026-08-21 |
 
 <a id="crypto"></a>
-### 블록체인 · 가상자산 (39)
+### 블록체인 · 가상자산 (43)
 
 블록체인 산업과 가상자산 서비스 소식
 
@@ -245,6 +246,7 @@
 
 | 이름 | 유형 | 운영 구분 | 설명 | 확인일 |
 | --- | --- | --- | --- | --- |
+| [30대에 은퇴번복한 머피](https://t.me/murphybus) `@murphybus` | 채널 | 개인 | 크립토·거래소·개인 투자 경험을 공유하는 개인 채널 | 2026-08-21 |
 | [Bithumb 빗썸 공식 실시간 알림](https://t.me/BithumbExchangeData) `@BithumbExchangeData` | 채널 | 공식 | 빗썸 텔레그램 실시간 가격 급등락 알림 | 2026-08-21 |
 | [Bithumb 빗썸 공식 채널](https://t.me/BithumbExchange) `@BithumbExchange` | 채널 | 공식 | No.1 가상자산 플랫폼 빗썸의 공식 텔레그램 채널입니다. | 2026-08-21 |
 | [COINNESS News Feed (코인니스)](https://t.me/coinnesskr) `@coinnesskr` | 채널 | 커뮤니티 | You can view and join @coinnesskr right away. | 2026-08-21 |
@@ -253,13 +255,16 @@
 | [DeFi 농부 👨🏻‍🌾 조선생](https://t.me/BSC_Farmer_KR) `@BSC_Farmer_KR` | 채널 | 커뮤니티 | 크립토 트랜드를 분석하여 쉽게 전달드립니다. *개인 메시지는 전부 사기입니다* 📞 문의: @Prof_Jo 👨🏻‍🌾 채팅방: https://t.me/Farmer_Chat_KR 🥯 리서치: https://naver.me/5SaBZABO 🐥 트위터: ht… | 2026-08-21 |
 | [Korbit 코빗 공식 채널](https://t.me/official_Korbit) `@official_Korbit` | 채널 | 공식 | 코빗 서비스·이벤트·리서치 안내 | 2026-08-21 |
 | [TON and Manner](https://t.me/TONandManner) `@TONandManner` | 채널 | 커뮤니티 | TON 프로젝트와 생태계 뉴스·의견 공유 | 2026-08-21 |
+| [권돌의 돈 되는 정보공유방](https://t.me/kwondoll_2) `@kwondoll_2` | 채널 | 개인 | 크립토 정보와 관련 링크를 공유하는 개인 채널 | 2026-08-21 |
 | [다비드의 코인수첩 시즌2 🚀](https://t.me/davidissogood) `@davidissogood` | 채널 | 커뮤니티 | Trader DAVID AKA "다비드“ 차트대디 $BTC | 2026-08-21 |
 | [돌곰배와 매직 코인일기 🦅](https://t.me/dolgommagic) `@dolgommagic` | 채널 | 커뮤니티 | 코린이를 위한 코인, NFT, 디파이, 화이트리스트, 에어드랍 등 정보 확 공유 공지방 : https://t.me/dolgommagic 채팅방 : https://t.me/dolgomagic 트위터 : https://x.com/ipalau1 유튜브 :… | 2026-08-21 |
 | [디센터 Decenter 공식 채널](https://t.me/Decenter_KR) `@Decenter_KR` | 채널 | 공식 | 탈중앙화 시대를 여는 뉴스허브, 디센터 English: t.me/DecenterGlobal 홈페이지: decenter.kr 뉴스레터: http://bit.ly/De_letter | 2026-08-21 |
+| [따라하면 돈버는 억까인생 근성코 일기장](https://t.me/coinking77777) `@coinking77777` | 채널 | 개인 | 코인 시장과 개인 투자 경험을 공유하는 개인 채널 | 2026-08-21 |
 | [변창호 코인사관학교 BCH 🦅](https://t.me/BChoSN) `@BChoSN` | 채널 | 커뮤니티 | 채팅방 @engzip Contact @bchocoin #AD = 비용 지원 받은 포스팅 / #KOL = 요청 받은 포스팅 | 2026-08-21 |
 | [부식의 Web3 공방](https://t.me/boosik_web3) `@boosik_web3` | 채널 | 커뮤니티 | 아 웹3 프로젝트 만들어보고 싶다~~ DM : @i_am_boosik | 2026-08-21 |
 | [불개미 CRYPTO](https://t.me/fireant_crypto) `@fireant_crypto` | 채널 | 커뮤니티 | 대한민국 최대 Crypto 커뮤니티 불개미 Crypto 불개미 Crypto : @fireant_crypto 불개미 X account : (트위터) fireant_korea (no TG ID) 불개미 링크트리 : https://linktr.ee/fir… | 2026-08-21 |
 | [블루밍비트](https://t.me/bloomingbit) `@bloomingbit` | 채널 | 공식 | 한국경제신문 블록체인·가상자산 전문 미디어 | 2026-08-21 |
+| [생계형 에어드랍](https://t.me/sangp_airdrop) `@sangp_airdrop` | 채널 | 개인 | 에어드롭·이벤트·디지털자산 참여 경험을 공유하는 개인 채널 | 2026-08-21 |
 | [신기돈 메인넷(이더리움수혜자모임)](https://t.me/helpmetebi) `@helpmetebi` | 채널 | 커뮤니티 | 블로그:https://blog.naver.com/jinriwarman 공지방:https://t.me/tlsrltnf 채팅방:https://t.me/helpmetebi | 2026-08-21 |
 | [엄마가 걱정안해도 될때까지 하는 코인 채널](https://t.me/dontworrymomcoinverygood) `@dontworrymomcoinverygood` | 채널 | 커뮤니티 | 🥰 코인, NFT, DAO 등 Web3 관련 생각을 나눕니다. 행복한 하루 되세요 ^^ ‼️ 방장은 절대 먼저 DM을 보내지 않습니다 !! | 2026-08-21 |
 | [업비트 Upbit 공식 텔레그램](https://t.me/upbit_news) `@upbit_news` | 채널 | 공식 | 업비트(Upbit) 한국 공식 텔레그램 채널 @upbit_news 이제 텔레그램에서 업비트 소식을 빠르게 만나보세요! | 2026-08-21 |

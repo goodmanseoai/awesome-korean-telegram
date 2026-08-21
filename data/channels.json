@@ -882,6 +882,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "미국 주식 인사이더",
+          "handle": "insidertracking",
+          "url": "https://t.me/insidertracking",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "미국주식·크립토·국제정치와 속보를 공유하는 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "미국주식과 투자이야기",
           "handle": "itechkorea",
           "url": "https://t.me/itechkorea",
@@ -1403,6 +1412,15 @@
       "notice": "가상자산은 가격 변동과 사기 위험이 큽니다. 송금·지갑 연결·투자 전 운영 주체와 링크를 별도로 확인하세요.",
       "entries": [
         {
+          "name": "30대에 은퇴번복한 머피",
+          "handle": "murphybus",
+          "url": "https://t.me/murphybus",
+          "type": "채널",
+          "status": "개인",
+          "description": "크립토·거래소·개인 투자 경험을 공유하는 개인 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "Bithumb 빗썸 공식 실시간 알림",
           "handle": "BithumbExchangeData",
           "url": "https://t.me/BithumbExchangeData",
@@ -1475,6 +1493,15 @@
           "checked_at": "2026-08-21"
         },
         {
+          "name": "권돌의 돈 되는 정보공유방",
+          "handle": "kwondoll_2",
+          "url": "https://t.me/kwondoll_2",
+          "type": "채널",
+          "status": "개인",
+          "description": "크립토 정보와 관련 링크를 공유하는 개인 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
           "name": "다비드의 코인수첩 시즌2 🚀",
           "handle": "davidissogood",
           "url": "https://t.me/davidissogood",
@@ -1499,6 +1526,15 @@
           "type": "채널",
           "status": "공식",
           "description": "탈중앙화 시대를 여는 뉴스허브, 디센터 English: t.me/DecenterGlobal 홈페이지: decenter.kr 뉴스레터: http://bit.ly/De_letter",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "따라하면 돈버는 억까인생 근성코 일기장",
+          "handle": "coinking77777",
+          "url": "https://t.me/coinking77777",
+          "type": "채널",
+          "status": "개인",
+          "description": "코인 시장과 개인 투자 경험을 공유하는 개인 채널",
           "checked_at": "2026-08-21"
         },
         {
@@ -1535,6 +1571,15 @@
           "type": "채널",
           "status": "공식",
           "description": "한국경제신문 블록체인·가상자산 전문 미디어",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "생계형 에어드랍",
+          "handle": "sangp_airdrop",
+          "url": "https://t.me/sangp_airdrop",
+          "type": "채널",
+          "status": "개인",
+          "description": "에어드롭·이벤트·디지털자산 참여 경험을 공유하는 개인 채널",
           "checked_at": "2026-08-21"
         },
         {

@@ -139,11 +139,20 @@ CATEGORY_RULES = [
 ]
 
 CATEGORY_OVERRIDES = {
+    "coinking77777": "crypto",
+    "insidertracking": "finance",
+    "kwondoll_2": "crypto",
     "mujammin123": "crypto",
+    "murphybus": "crypto",
+    "sangp_airdrop": "crypto",
 }
 
 STATUS_OVERRIDES = {
+    "coinking77777": "개인",
+    "kwondoll_2": "개인",
     "mujammin123": "개인",
+    "murphybus": "개인",
+    "sangp_airdrop": "개인",
 }
 
 
