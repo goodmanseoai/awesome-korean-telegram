@@ -1,0 +1,74 @@
+name: 채널 추가 요청
+description: 새로운 한국어 공개 채널·그룹·봇을 제안합니다.
+title: "[추가]: "
+labels:
+  - addition
+body:
+  - type: markdown
+    attributes:
+      value: |
+        제출 전에 `CONTRIBUTING.md`의 수록 및 제외 기준을 확인해 주세요.
+  - type: input
+    id: name
+    attributes:
+      label: 이름
+      placeholder: 채널에 표시되는 정확한 이름
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 공개 주소
+      description: 사용자명이 포함된 공개 t.me 주소를 입력해 주세요. 일회성 초대 링크는 받지 않습니다.
+      placeholder: https://t.me/example
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 유형
+      options:
+        - 채널
+        - 그룹
+        - 봇
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 카테고리
+      options:
+        - 개발 · 기술 · AI
+        - 뉴스 · 지식 · 교육
+        - 생활 · 환경 · 쇼핑
+        - 경제 · 증권 · 리서치
+        - 블록체인 · 가상자산
+        - 텔레그램 공식 채널 · 도구
+        - 새 카테고리 제안
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 설명
+      description: 누가 운영하며 어떤 콘텐츠를 제공하는지 1~3문장으로 설명해 주세요.
+    validations:
+      required: true
+  - type: input
+    id: official_source
+    attributes:
+      label: 공식 운영 근거
+      description: 공식 채널이라고 제안하는 경우 운영기관 웹사이트의 연결 페이지를 입력해 주세요.
+      placeholder: https://example.com/official-links
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 확인 사항
+      options:
+        - label: 공개 페이지가 현재 열리는 것을 직접 확인했습니다.
+          required: true
+        - label: 불법·도박·성인·사칭·피싱·무단자료 공유 채널이 아닙니다.
+          required: true
+        - label: 이 요청에 개인정보나 인증정보를 포함하지 않았습니다.
+          required: true
+

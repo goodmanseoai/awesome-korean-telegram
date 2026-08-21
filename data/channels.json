@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-21",
+  "categories": [
+    {
+      "slug": "tech-ai",
+      "name": "개발 · 기술 · AI",
+      "description": "개발, 오픈소스, 기술 산업과 인공지능 소식",
+      "entries": [
+        {
+          "name": "GeekNews",
+          "handle": "GeekNewsHada",
+          "url": "https://t.me/GeekNewsHada",
+          "type": "채널",
+          "status": "공식",
+          "description": "개발·기술·제품·오픈소스·스타트업 주요 소식",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "news-knowledge",
+      "name": "뉴스 · 지식 · 교육",
+      "description": "뉴스, 인문 지식과 학습 자료",
+      "entries": [
+        {
+          "name": "전자신문 프리미엄",
+          "handle": "etnewspremium",
+          "url": "https://t.me/etnewspremium",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "전자신문 프리미엄 기사 링크 모음",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "인문 상식과 정보 채널",
+          "handle": "saramgal",
+          "url": "https://t.me/saramgal",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "가볍게 읽을 수 있는 인문학·사람·사회 관련 정보",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "외투영공: 외신·투자·영어·공부",
+          "handle": "fnnews_en",
+          "url": "https://t.me/fnnews_en",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "주요 외신을 활용한 경제·금융 정보와 영어 학습",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "life",
+      "name": "생활 · 환경 · 쇼핑",
+      "description": "생활에 바로 활용할 수 있는 정보와 알림",
+      "entries": [
+        {
+          "name": "한국 커뮤니티 핫딜 모아보기",
+          "handle": "hotdeal_kr",
+          "url": "https://t.me/hotdeal_kr",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "여러 국내 커뮤니티의 핫딜 게시물을 모아 제공",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "통합대기지수",
+          "handle": "airkorea",
+          "url": "https://t.me/airkorea",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "한국환경공단 자료를 활용한 미세먼지·대기질 알림",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "finance",
+      "name": "경제 · 증권 · 리서치",
+      "description": "경제 뉴스, 증권사 리서치와 시장 자료",
+      "notice": "이 항목들은 정보 제공용이며 수익을 보장하지 않습니다. 투자 판단과 책임은 이용자에게 있습니다.",
+      "entries": [
+        {
+          "name": "하나증권 리서치",
+          "handle": "HanaResearch",
+          "url": "https://t.me/HanaResearch",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "하나증권 주요 소식과 리서치 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "하나 미래산업팀(스몰캡)",
+          "handle": "hanasmallcap",
+          "url": "https://t.me/hanasmallcap",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "하나증권 미래산업팀 리포트 요약과 행사 안내",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한투 테크팀",
+          "handle": "KISemicon",
+          "url": "https://t.me/KISemicon",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "한국투자증권 테크팀의 반도체·IT 산업 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한투증권 박상현 전기전자",
+          "handle": "TechBrayden",
+          "url": "https://t.me/TechBrayden",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "전기전자 업종 뉴스와 기업 분석 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "대신증권 리서치",
+          "handle": "dsrsc",
+          "url": "https://t.me/dsrsc",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "대신증권 리서치센터 발간 보고서",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "대신 전략. 돌직구",
+          "handle": "daishinstrategy",
+          "url": "https://t.me/daishinstrategy",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "국내외 금융시장 전망과 투자전략",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "메리츠증권 투자전략팀",
+          "handle": "Meritz_strategy",
+          "url": "https://t.me/Meritz_strategy",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "국내외 전략·경제·채권·계량·시황 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "메리츠 투자전략 황수욱",
+          "handle": "soowook_hwang",
+          "url": "https://t.me/soowook_hwang",
+          "type": "채널",
+          "status": "개인",
+          "description": "탑다운 투자전략 자료를 공유하는 애널리스트 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "유진투자증권 코스닥벤처팀",
+          "handle": "SmallCap",
+          "url": "https://t.me/SmallCap",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "코스닥·벤처·스몰캡 관련 리서치 자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "한국IR협의회",
+          "handle": "kirsofficial",
+          "url": "https://t.me/kirsofficial",
+          "type": "채널",
+          "status": "공식",
+          "description": "기업분석보고서, IPO IR 행사와 IRTV 콘텐츠 안내",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "주식 급등일보",
+          "handle": "FastStockNews",
+          "url": "https://t.me/FastStockNews",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "국내 증시 뉴스와 급등 테마·대장주 정보",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "번개맞은뉴스",
+          "handle": "stock_messenger",
+          "url": "https://t.me/stock_messenger",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "주도주와 관련 섹터 뉴스를 추적하는 채널",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "그로쓰리서치",
+          "handle": "growthresearch",
+          "url": "https://t.me/growthresearch",
+          "type": "채널",
+          "status": "기관/회사",
+          "description": "국내외 주식·암호화폐 기업탐방 중심의 독립 리서치",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "가치투자클럽",
+          "handle": "corevalue",
+          "url": "https://t.me/corevalue",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "공표된 증권사 자료·전자공시·뉴스와 재무자료",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "주식 증권사 리포트",
+          "handle": "companyreport",
+          "url": "https://t.me/companyreport",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "증권사 기업 리포트와 시장 자료 모음",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "여의도스토리 Ver2.0",
+          "handle": "YeouidoStory2",
+          "url": "https://t.me/YeouidoStory2",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "경제 뉴스·증권사 리포트·글로벌 시장 자료",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "crypto",
+      "name": "블록체인 · 가상자산",
+      "description": "블록체인 산업과 가상자산 서비스 소식",
+      "notice": "가상자산은 가격 변동과 사기 위험이 큽니다. 송금·지갑 연결·투자 전 운영 주체와 링크를 별도로 확인하세요.",
+      "entries": [
+        {
+          "name": "토큰포스트 공식 채널",
+          "handle": "tokenpost_kr",
+          "url": "https://t.me/tokenpost_kr",
+          "type": "채널",
+          "status": "공식",
+          "description": "블록체인·가상자산 전문 미디어 토큰포스트 소식",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Korbit 코빗 공식 채널",
+          "handle": "official_Korbit",
+          "url": "https://t.me/official_Korbit",
+          "type": "채널",
+          "status": "공식",
+          "description": "코빗 서비스·이벤트·리서치 안내",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "TON and Manner",
+          "handle": "TONandManner",
+          "url": "https://t.me/TONandManner",
+          "type": "채널",
+          "status": "커뮤니티",
+          "description": "TON 프로젝트와 생태계 뉴스·의견 공유",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "slug": "telegram-tools",
+      "name": "텔레그램 공식 채널 · 도구",
+      "description": "텔레그램 소식과 기본 제공 채널·봇",
+      "entries": [
+        {
+          "name": "Telegram News",
+          "handle": "telegram",
+          "url": "https://t.me/telegram",
+          "type": "채널",
+          "status": "공식",
+          "description": "텔레그램 공식 제품 소식",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Telegram Tips",
+          "handle": "TelegramTips",
+          "url": "https://t.me/TelegramTips",
+          "type": "채널",
+          "status": "공식",
+          "description": "텔레그램 기능과 사용 팁",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "BotFather",
+          "handle": "BotFather",
+          "url": "https://t.me/BotFather",
+          "type": "봇",
+          "status": "공식",
+          "description": "텔레그램 봇 생성과 관리",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Stickers Bot",
+          "handle": "Stickers",
+          "url": "https://t.me/Stickers",
+          "type": "봇",
+          "status": "공식",
+          "description": "스티커 팩 생성과 사용 통계 관리",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "GIF Search",
+          "handle": "gif",
+          "url": "https://t.me/gif",
+          "type": "봇",
+          "status": "공식",
+          "description": "대화창에서 GIF 검색",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "YouTube Video Search",
+          "handle": "vid",
+          "url": "https://t.me/vid",
+          "type": "봇",
+          "status": "공식",
+          "description": "대화창에서 YouTube 영상 검색",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "VoteBot",
+          "handle": "vote",
+          "url": "https://t.me/vote",
+          "type": "봇",
+          "status": "공식",
+          "description": "투표를 만들고 공유하는 봇",
+          "checked_at": "2026-08-21"
+        },
+        {
+          "name": "Wikipedia Search",
+          "handle": "wiki",
+          "url": "https://t.me/wiki",
+          "type": "봇",
+          "status": "공식",
+          "description": "대화창에서 위키백과 검색",
+          "checked_at": "2026-08-21"
+        }
+      ]
+    }
+  ]
+}
+

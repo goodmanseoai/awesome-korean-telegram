@@ -1,0 +1,47 @@
+name: 문제 신고
+description: 폐쇄, 주소 변경, 사칭, 피싱 또는 유해 콘텐츠를 신고합니다.
+title: "[신고]: "
+labels:
+  - report
+body:
+  - type: input
+    id: url
+    attributes:
+      label: 대상 주소
+      placeholder: https://t.me/example
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: 신고 유형
+      options:
+        - 링크가 열리지 않음
+        - 사용자명 또는 운영 주체 변경
+        - 사칭 또는 피싱 의심
+        - 악성코드 또는 개인정보 탈취
+        - 수록 기준 위반 콘텐츠
+        - 설명 또는 분류가 부정확함
+        - 기타
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 확인 내용
+      description: 확인 날짜와 판단 근거를 적어 주세요. 민감한 개인정보나 인증정보는 포함하지 마세요.
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: 공개 근거 링크
+      description: 운영기관 공지 등 공개적으로 확인할 수 있는 링크가 있다면 입력해 주세요.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 개인정보 확인
+      options:
+        - label: 개인정보, 비밀번호, API 키, 지갑 시드 문구를 포함하지 않았습니다.
+          required: true
+
